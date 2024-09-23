@@ -9,7 +9,7 @@ module CLC_R2(
   );
   
 //equ  >>> R1 = g^x mod p   
-reg [31:0] value ;
+reg [63:0] value ;
 
 
   always@(posedge clk or negedge rst)

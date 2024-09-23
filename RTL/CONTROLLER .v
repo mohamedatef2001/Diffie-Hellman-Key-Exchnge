@@ -30,30 +30,30 @@ module CONTROLKER (
        ideal  :
                 begin
                   if(true_1)
-                    curent_state = check_1 ;
+                    next_state = check_1 ;
                   else
-                    curent_state = ideal   ;
+                    next_state = ideal   ;
                 end
                 
         
        check_1 : 
                  begin
                   if(true_2)
-                    curent_state = check_2 ;
+                    next_state = check_2 ;
                   else
-                    curent_state = ideal   ;
+                    next_state = check_1 ;
                  end
        
        check_2 :
                  begin
                   if(true_2)
-                    curent_state = check_2 ;
+                    next_state = check_2 ;
                   else
-                    curent_state = ideal   ;
+                    next_state = ideal   ;
                  end
                  
       default  :
-                    curent_state = ideal   ; 
+                    next_state = ideal   ; 
                     
     endcase          
  end               
@@ -63,7 +63,7 @@ module CONTROLKER (
    case(curent_state)
        ideal   :   out = 0;
        check_1 :   out = 0;
-       check_2 :   out = 'b01000001-01000011-01000011-01000101-01010000-01010100; // ACCEPT
+       check_2 :   out = 'b010000010100001101000011010001010101000001010100; // ACCEPT
      endcase
   end
 endmodule

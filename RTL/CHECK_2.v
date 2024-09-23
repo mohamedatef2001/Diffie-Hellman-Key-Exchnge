@@ -3,6 +3,7 @@ module CHECK_2 (
   input [3:0] r_1   ,
   input [3:0] c_2_i ,
   input clk , rst   ,
+  //input done_i      ,
   output reg  true_2 
   );
   

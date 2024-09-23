@@ -11,13 +11,12 @@ module Diffe_TOP (
   
   
   
-  wire [3:0] R1_C      
-  ;
+  wire [3:0] R1_C      ;
   wire [3:0] R2_C      ;
   wire [3:0] C1_C      ;
   wire [3:0] C2_C      ;
   wire [3:0] KEY_C     ;
-  wire TRUE_1 , TRUE_2 ;
+  wire TRUE_1 , TRUE_2 , DONE_ENC2 ;
 
 
 CLC_R1 U0_CLC_R1 (
@@ -38,6 +37,8 @@ ENCRYPTION_R2 U0_ENCRYPTION_R2(
 .y(Y)           ,
 .clk(CLK)       ,
 .rst(RST)       ,
+.done_enc2(DONE_ENC2) ,
+.k_o(KEY_C)     ,
 .c1(C1_C) 
 );
 
@@ -60,9 +61,11 @@ ENCRYPTION_R1 U0_ENCRYPTION_R1 (
 .p(P)           ,
 .x(X)           ,
 .clk(CLK)       ,
+.done_i_enc2(DONE_ENC2),
 .rst(RST)       ,
 .true(TRUE_1)   ,
-.k_o(KEY_C)     ,
+//.done(DONE_C)   ,
+//.k_o(KEY_C)     ,
 .c2(C2_C)
 );
 
@@ -73,6 +76,7 @@ CHECK_2 U0_CHECK_2 (
 .c_2_i(C2_C)    ,
 .clk(CLK)       ,
 .rst(RST)       ,
+//.done_i(DONE_C) ,
 .true_2(TRUE_2) 
 );
 

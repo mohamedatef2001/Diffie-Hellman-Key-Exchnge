@@ -17,7 +17,7 @@ equ  >>> R1 = g^x mod p
 
 125 - 7 x 17 = 6
 */ 
-reg [31:0] value ;
+reg [63:0] value ;
 
 
   always@(posedge clk or negedge rst)
