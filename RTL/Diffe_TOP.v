@@ -16,14 +16,14 @@ module Diffe_TOP (
   wire [3:0] C1_C      ;
   wire [3:0] C2_C      ;
   wire [3:0] KEY_C     ;
-  wire TRUE_1 , TRUE_2 , DONE_ENC2 ;
+  wire [63:0] RESULT_C ;
+  wire TRUE_1 , TRUE_2 , DONE_ENC2 , DONE_CLC1 ;
 
 
 CLC_R1 U0_CLC_R1 (
-.g(G)           ,
 .p(P)           ,
-.x(X)           ,
-.st(ST)         ,
+.exp(RESULT_C)  ,
+.st(DONE_CLC1)  ,
 .clk(CLK)       ,
 .rst(RST)       ,
 .r1(R1_C)     
@@ -47,7 +47,7 @@ CLC_R2 U0_CLC_R2 (
 .g(G)           ,
 .p(P)           ,
 .y(Y)           ,
-.st(ST)         ,
+.st(DONE_CLC1)  ,
 .clk(CLK)       ,
 .rst(RST)       ,
 .r2(R2_C)
@@ -89,6 +89,15 @@ CONTROLKER U0_CONTROLKER (
 .out(OUT)
 );
 
+exponentiation U0_exponentiation (
+ .clk(CLK)        ,
+ .rst(RST)        ,
+ .start(ST)       ,
+ .base(G)         ,
+ .exponent(X)     ,
+ .result(RESULT_C),
+ .done(DONE_CLC1)
+ );
 
 endmodule
 
