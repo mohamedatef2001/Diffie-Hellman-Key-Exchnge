@@ -26,13 +26,13 @@ always #5 CLK_tb = !CLK_tb ;
 
 initial 
 begin
-   CLK_tb = 0  ;
-   RST_tb = 0  ;
-   ST_tb  = 0  ;
-   G_tb   = 0  ;
-   P_tb   = 1  ;
-   Y_tb   = 0  ;
-   X_tb   = 0  ;
+   CLK_tb = 0    ;
+   RST_tb = 0    ;
+   ST_tb  = 0    ;
+   G_tb   = 'd17 ;
+   P_tb   = 'd5  ;
+   Y_tb   = 'd8  ;
+   X_tb   = 'd6 ;
    
    #10 
    
@@ -45,11 +45,11 @@ begin
    P_tb   = 'd5  ;
    Y_tb   = 'd8  ;
    X_tb   = 'd6  ;
-   
-   #10
+   /*
+   #60
    
    ST_tb  = 0    ;
-   
+   */
    #200
    $finish ;
  end
