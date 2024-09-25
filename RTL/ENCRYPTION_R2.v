@@ -5,6 +5,7 @@ module ENCRYPTION_R2 (
   input     [31:0]y     ,
   input           clk   ,
   input           rst   ,
+  input           done_c_i,
   output reg      done_enc2  ,
   output reg[3:0] k_o   ,
   output reg[3:0] c1
@@ -23,7 +24,7 @@ module ENCRYPTION_R2 (
       k_2   = 0 ;
       done_enc2 = 0 ;
      end
-   else
+   else if (done_c_i)
      begin
       value = (r1**y)/p       ;
       k_2   = (r1**y)-value*p ;

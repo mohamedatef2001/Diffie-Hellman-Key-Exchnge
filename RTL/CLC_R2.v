@@ -1,7 +1,6 @@
 module CLC_R2(
-  input     [31:0]   g  ,
   input     [31:0]   p  ,
-  input     [31:0]   y  ,
+  input     [63:0]   exp,
   input              st ,
   input              clk,
   input              rst,
@@ -21,8 +20,8 @@ reg [63:0] value ;
     end
     else if(st)
       begin
-        value = (g**y)/p       ;  
-        r2    = (g**y)-value*p ;
+        value = exp/p       ;  
+        r2    = exp-value*p ;
       end
     end
 endmodule        
