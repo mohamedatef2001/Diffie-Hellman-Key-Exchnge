@@ -15,7 +15,7 @@ module exponentiation (
         if (!rst) 
          begin
             result <= 1;
-            temp <= base;
+            temp <= 0 ;
             count <= 0;
             done <= 0;
          end 
@@ -28,8 +28,13 @@ module exponentiation (
              end 
            else 
               begin
+                temp <= base;
                 done <= 1;
             end
-        end
+         end
+       else
+            begin
+                temp <= base;
+            end
     end
 endmodule

@@ -5,7 +5,7 @@ module CLC_R1(
   input              st ,
   input              clk,
   input              rst,
-  output reg[3:0]    r1
+  output reg[31:0]    r1
   );
   
 /*

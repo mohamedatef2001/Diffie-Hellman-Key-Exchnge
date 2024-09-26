@@ -1,6 +1,6 @@
 module ENCRYPTION_R1 (
   input     [3:0] r2    ,
-  input     [3:0] r1    ,
+  input     [31:0] r1   ,
   input     [3:0] c1    ,
   input     [31:0]p     ,
   input     [31:0]x     ,
@@ -13,7 +13,7 @@ module ENCRYPTION_R1 (
   
   reg [31:0] value ;
   reg [3:0] k_1   ;
-  reg [3:0] r2_new  ;
+  reg [31:0] r2_new  ;
   
   always@(posedge clk or negedge rst)
   begin

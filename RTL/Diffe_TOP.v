@@ -11,13 +11,14 @@ module Diffe_TOP (
   
   
   
-  wire [3:0] R1_C      ;
+  wire [31:0] R1_C     ;
   wire [3:0] R2_C      ;
   wire [3:0] C1_C      ;
   wire [3:0] C2_C      ;
   wire [3:0] KEY_C     ;
-  wire [63:0]RESULT_C1  ;
+  wire [63:0]RESULT_C1 ;
   wire [63:0]RESULT_C2 ;
+  wire [63:0]EXP_C2    ;
   wire TRUE_1 , TRUE_2 , DONE_ENC2 , DONE_CLC1 , DONE_CLC2   ;
 
 
@@ -35,10 +36,10 @@ ENCRYPTION_R2 U0_ENCRYPTION_R2(
 .r1(R1_C)       ,
 .r2(R2_C)       ,
 .p(P)           ,
-.y(Y)           ,
+.exp(EXP_C2)    ,
 .clk(CLK)       ,
 .rst(RST)       ,
-.done_enc2(DONE_ENC2) ,
+//.done_enc2(DONE_ENC2) ,
 .k_o(KEY_C)     ,
 .done_c_i(DONE_CLC2),
 .c1(C1_C) 
@@ -109,6 +110,16 @@ exponentiation U0_exponentiation (
  .result(RESULT_C2),
  .done(DONE_CLC2)
  );
+ 
+ exponentiation U2_exponentiation (
+ .clk(CLK)        ,
+ .rst(RST)        ,
+ .start(DONE_CLC2),
+ .base(R1_C)      ,
+ .exponent(Y)     ,
+ .result(EXP_C2)  ,
+ .done(DONE_ENC2)
+ ); 
 
 endmodule
 
