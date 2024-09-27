@@ -1,6 +1,6 @@
 module ENCRYPTION_R2 (
   input     [31:0] r1   ,
-  input     [3:0] r2    ,
+  input     [31:0] r2    ,
   input     [31:0]p     ,
   input     [63:0]exp   ,
   input           clk   ,
@@ -31,6 +31,14 @@ module ENCRYPTION_R2 (
       c1    =  k_2  ^ r2      ;
       k_o   =  k_2            ;
      // done_enc2 = 1         ;
+     end
+   else
+     begin
+      c1    = 0 ;
+      k_o   = 0 ;
+      value = 0 ;
+      k_2   = 0 ;
+     // done_enc2 = 0 ;
      end
   end
 endmodule

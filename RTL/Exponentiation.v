@@ -35,6 +35,7 @@ module exponentiation (
        else
             begin
                 temp <= base;
+                done <= 0   ;
             end
     end
 endmodule

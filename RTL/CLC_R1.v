@@ -31,6 +31,11 @@ reg [63:0] value ;
         value = exp/p       ;  
         r1    = exp-value*p ;
       end
+    else
+      begin
+        r1    = 0;
+        value = 0;
+      end
     end
 endmodule        
   

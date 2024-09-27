@@ -1,9 +1,9 @@
 module ENCRYPTION_R1 (
-  input     [3:0] r2    ,
+  input     [31:0] r2   ,
   input     [31:0] r1   ,
   input     [3:0] c1    ,
   input     [31:0]p     ,
-  input     [31:0]x     ,
+  input     [63:0]exp   ,
   input           clk   ,
   input           done_i_enc2,
   input           rst   ,
@@ -19,7 +19,7 @@ module ENCRYPTION_R1 (
   begin
    if(!rst)
      begin
-      c2    = 'hf ;
+      c2    = 'hf ; 
       true  = 0   ;
       value = 0   ;
       k_1   = 0   ;
@@ -27,8 +27,8 @@ module ENCRYPTION_R1 (
      end
    else if(done_i_enc2)
      begin
-    value = (r2**x)/p       ;
-    k_1   = (r2**x)-value*p ;
+    value = exp/p       ;
+    k_1   = exp-value*p ;
     r2_new= k_1 ^ c1        ;
     
     if (r2_new != r2 )

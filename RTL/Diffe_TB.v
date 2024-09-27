@@ -50,7 +50,9 @@ begin
    
    ST_tb  = 0    ;
    */
-   #200
+   #300
+   ST_tb  = 0    ;
+   #300
    $finish ;
  end
  endmodule
