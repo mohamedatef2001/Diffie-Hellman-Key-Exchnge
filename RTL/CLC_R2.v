@@ -4,11 +4,11 @@ module CLC_R2(
   input              st ,
   input              clk,
   input              rst,
-  output reg[31:0]    r2
+  output reg[63:0]    r2
   );
   
 //equ  >>> R1 = g^x mod p   
-reg [63:0] value ;
+//reg [63:0] value ;
 
 
   always@(posedge clk or negedge rst)
@@ -16,17 +16,17 @@ reg [63:0] value ;
   if(!rst)
     begin
       r2    = 1;
-      value = 1;
+      //value = 1;
     end
     else if(st)
       begin
-        value = exp/p       ;  
-        r2    = exp-value*p ;
+    //    value = exp/p       ;  
+        r2    = exp-(exp/p)*p ;
       end
     else
        begin
         r2    = 1;
-        value = 1;
+       // value = 1;
        end
     end
 endmodule        

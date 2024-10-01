@@ -7,8 +7,8 @@ module exponentiation (
     output reg [63:0] result,
     output reg done
 );
-    reg [7:0] count;
-    reg [63:0] temp;
+    reg [31:0] count;
+    reg [31:0] temp;
 
     always @(posedge clk or negedge rst) 
     begin
@@ -23,7 +23,7 @@ module exponentiation (
          begin
           if (count < exponent) 
              begin
-                result <= result * temp;
+                result <= result[31:0] * temp;
                 count <= count + 1;
              end 
            else 
@@ -36,6 +36,7 @@ module exponentiation (
             begin
                 temp <= base;
                 done <= 0   ;
+                count <= 0;
             end
     end
 endmodule

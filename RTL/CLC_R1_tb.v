@@ -8,7 +8,7 @@ module CLC_R1_tb();
   wire  [3:0]    r1_tb ;
 
 
-CLC_R1 R1(
+test_32bits R1(
 .g(g_tb)  ,
 .p(p_tb)  ,
 .x(x_tb)  ,

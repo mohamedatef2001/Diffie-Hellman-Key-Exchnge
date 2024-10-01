@@ -1,19 +1,19 @@
 module ENCRYPTION_R1 (
-  input     [31:0] r2   ,
-  input     [31:0] r1   ,
-  input     [3:0] c1    ,
+  input     [63:0] r2   ,
+  input     [63:0] r1   ,
+  input     [63:0] c1    ,
   input     [31:0]p     ,
   input     [63:0]exp   ,
   input           clk   ,
   input           done_i_enc2,
   input           rst   ,
   output reg      true  ,
-  output reg [3:0]c2    
+  output reg [63:0]c2    
   );
   
-  reg [31:0] value ;
-  reg [3:0] k_1   ;
-  reg [31:0] r2_new  ;
+ // reg [63:0] value ;
+  reg [63:0] k_1   ;
+  reg [63:0] r2_new  ;
   
   always@(posedge clk or negedge rst)
   begin
@@ -21,14 +21,14 @@ module ENCRYPTION_R1 (
      begin
       c2    = 'hf ; 
       true  = 0   ;
-      value = 0   ;
+   //   value = 0   ;
       k_1   = 0   ;
       r2_new= 0   ; 
      end
    else if(done_i_enc2)
      begin
-    value = exp/p       ;
-    k_1   = exp-value*p ;
+  //  value = exp/p       ;
+    k_1   = exp-(exp/p)*p ;
     r2_new= k_1 ^ c1        ;
     
     if (r2_new != r2 )
