@@ -109,7 +109,7 @@ puts "###############################################"
 puts "############ Design Constraints #### ##########"
 puts "###############################################"
 
-#### source -echo ./cons.tcl
+source -echo ./cons.tcl
 
 ###################### Mapping and optimization ########################
 puts "###############################################"
@@ -124,29 +124,31 @@ set_svf -off
 #############################################################################
 # Write out files
 #############################################################################
-
-##write_file -format verilog -hierarchy -output netlists/$top_module.ddc
 write_file -format verilog -hierarchy -output netlists/$top_module.v
-##write_sdf  sdf/$top_module.sdf
-##write_sdc  -nosplit sdc/$top_module.sdc
-
+write_sdc  -nosplit sdc/$top_module.sdc
+# for formality
+write_file -format verilog -hierarchy -output netlists/$top_module.ddc 
+# for GLS
+write_sdf  sdf/$top_module.sdf 
 ####################### reporting ##########################################
 report_area -hierarchy > reports/area.rpt
 report_power -hierarchy > reports/power.rpt
-##report_timing -delay_type min -max_paths 20 > reports/hold.rpt
-##report_timing -delay_type max -max_paths 20 > reports/setup.rpt
-##report_clock -attributes > reports/clocks.rpt
-## report_constraint -all_violators -nosplit > reports/constraints.rpt
+report_timing -delay_type min  > reports/hold.rpt
+report_timing -delay_type max  > reports/setup.rpt
+report_clock -attributes > reports/clocks.rpt
+report_constraint -all_violators -nosplit > reports/constraints.rpt
+report_high_fanout_nets > reports/fanout.rpt
+#report_timing -from [all_inputs]  -to [all_outputs] > report-input2output.txt
 
 ############################################################################
 # DFT Preparation Section
 ############################################################################
 
-##set flops_per_chain 100
+set flops_per_chain 100
 
-##set num_flops [sizeof_collection [all_registers -edge_triggered]]
+set num_flops [sizeof_collection [all_registers -edge_triggered]]
 
-##set num_chains [expr $num_flops / $flops_per_chain + 1 ]
+set num_chains [expr $num_flops / $flops_per_chain + 1 ]
 
 ################# starting graphical user interface #######################
 

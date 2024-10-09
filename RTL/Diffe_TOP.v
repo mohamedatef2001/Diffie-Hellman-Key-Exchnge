@@ -20,7 +20,7 @@ module Diffe_TOP (
   wire [63:0]RESULT_C2 ;
   wire [63:0]EXP_C2    ;
   wire [63:0]EXP_C1    ;
-  wire TRUE_1 , TRUE_2 , DONE_ENC2 , DONE_ENC1 , DONE_CLC1 , DONE_CLC2   ;
+  wire TRUE_1 , TRUE_2 , DONE_ENC2 , DONE_ENC1 , DONE_CLC1 , DONE_CLC2  , DELAY_DONE ;
 
 
 CLC_R1 U0_CLC_R1 (
@@ -39,7 +39,7 @@ ENCRYPTION_R2 U0_ENCRYPTION_R2(
 .exp(EXP_C2)    ,
 .clk(CLK)       ,
 .rst(RST)       ,
-//.done_enc2(DONE_ENC2) ,
+.done_enc2(DELAY_DONE) ,
 .k_o(KEY_C)     ,
 .done_c_i(DONE_CLC2),
 .c1(C1_C) 
@@ -114,7 +114,7 @@ exponentiation U0_exponentiation (
  exponentiation_R U2_exponentiation_r (
  .clk(CLK)        ,
  .rst(RST)        ,
- .start(DONE_CLC2),
+ .start(DELAY_DONE),
  .base(R1_C)      ,
  .exponent(Y)     ,
  .result(EXP_C2)  ,

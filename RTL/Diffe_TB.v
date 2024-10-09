@@ -49,10 +49,14 @@ begin
    #60
    
    ST_tb  = 0    ;
-   */
+   
    #300
    ST_tb  = 0    ;
-   #300
+   */
+   
+   #333
+   ST_tb  = 0    ;
+   #50
    $finish ;
  end
  endmodule

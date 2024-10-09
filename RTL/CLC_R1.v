@@ -16,25 +16,27 @@ equ  >>> R1 = g^x mod p
 
 125 - 7 x 17 = 6
 */ 
-// reg [63:0] value ;
+reg [63:0] value_1 , value_2 ;
 
 
   always@(posedge clk or negedge rst)
   begin
   if(!rst)
     begin
-      r1    = 0;
-  //    value = 0;
+      r1    <= 0;
+      value_1 <= 0;
+      value_2 <= 1;
     end
     else if(st)
       begin
-    //    value = exp/p       ;  
-        r1    = exp-(exp/p)*p ;
+        value_1 <= exp/p       ;  
+        value_2 <= value_1*p    ;
+        r1    <= exp - value_2  ;
       end
     else
       begin
-        r1    = 0;
-     //   value = 0;
+        r1    <= 0;
+        value_1 <= 0;
       end
     end
 endmodule        

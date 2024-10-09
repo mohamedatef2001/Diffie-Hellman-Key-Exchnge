@@ -45,10 +45,10 @@ set_fix_multiple_port_nets -all -buffer_constant -feedthroughs
 
 # Note : get_ports is used when you need to interact with the external interface of your design, whereas get_clocks is used when you need to manage and analyze the timing characteristics of clock signals
 
-# Master Clock Definitions  [50 MHz]
+# Master Clock Definitions  [2.5 MHz]
 set CLK_NAME CLK
-set CLK_PRE 20
-create_clock -name $CLK_NAME -period $CLK1_PER -waveform "0 [expr $CLK1_PER/2]" [get_ports CLK]
+set CLK_PRE 400
+create_clock -name $CLK_NAME -period $CLK_PRE -waveform "0 [expr $CLK_PRE/2]" [get_ports CLK]
 # SKEW
 set CLK_SETUP_SKEW 0.2
 set CLK_HOLD_SKEW 0.1
@@ -58,7 +58,7 @@ set_clock_uncertainty -hold  $CLK_HOLD_SKEW  [get_clocks $CLK_NAME]
 set CLK_LAT 0
 set_clock_latency $CLK_LAT [get_clocks $CLK_NAME]
 # CLOCK TRANSITION
-set CLK_rise 0.05
+set CLK_RISE 0.05
 set CLK_FALL 0.05
 set_clock_transition -rise $CLK_RISE  [get_clocks $CLK_NAME]
 set_clock_transition -fall $CLK_FALL  [get_clocks $CLK_NAME]
@@ -82,7 +82,17 @@ set_dont_touch_network CLK
            #########################################################
 ####################################################################################
 
+set IN_DELAY  [expr 0.005*$CLK_PRE]
+set OUT_DELAY [expr 0.005*$CLK_PRE]
 
+# INPUT PATH
+set_input_delay $IN_DELAY -clock $CLK_NAME [get_ports G]
+set_input_delay $IN_DELAY -clock $CLK_NAME [get_ports P]
+set_input_delay $IN_DELAY -clock $CLK_NAME [get_ports X]
+set_input_delay $IN_DELAY -clock $CLK_NAME [get_ports Y]
+
+# OUTPUT DELAY
+set_output_delay $OUT_DELAY -clock $CLK_NAME [get_ports OUT]
 
 ####################################################################################
            #########################################################
@@ -90,7 +100,10 @@ set_dont_touch_network CLK
            #########################################################
 ####################################################################################
 
-
+set_driving_cell -library scmetro_tsmc_cl013g_rvt_ss_1p08v_125c -lib_cell BUFX2M -pin Y [get_port G]
+set_driving_cell -library scmetro_tsmc_cl013g_rvt_ss_1p08v_125c -lib_cell BUFX2M -pin Y [get_port P]
+set_driving_cell -library scmetro_tsmc_cl013g_rvt_ss_1p08v_125c -lib_cell BUFX2M -pin Y [get_port X]
+set_driving_cell -library scmetro_tsmc_cl013g_rvt_ss_1p08v_125c -lib_cell BUFX2M -pin Y [get_port Y]
 
 ####################################################################################
            #########################################################
@@ -98,7 +111,7 @@ set_dont_touch_network CLK
            #########################################################
 ####################################################################################
 
-
+set_load 0.5 [get_ports OUT]
 
 ####################################################################################
            #########################################################
@@ -109,7 +122,7 @@ set_dont_touch_network CLK
 # Define the Worst Library for Max(#setup) analysis
 # Define the Best Library for Min(hold) analysis
 
-
+set_operating_conditions -min_library "scmetro_tsmc_cl013g_rvt_ff_1p32v_m40c" -min "scmetro_tsmc_cl013g_rvt_ff_1p32v_m40c" -max_library "scmetro_tsmc_cl013g_rvt_ss_1p08v_125c" -max "scmetro_tsmc_cl013g_rvt_ss_1p08v_125c"
 
 ####################################################################################
            #########################################################

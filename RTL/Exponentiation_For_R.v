@@ -16,14 +16,15 @@ module exponentiation_R  (
         if (!rst) 
          begin
             result <= 1;
-            temp <= 0 ;
+            temp <= 1 ;
             count <= 0;
             done <= 0;
          end 
         else if (start) 
          begin
-          if (count < exponent) 
+          if (count <= exponent) 
              begin
+                temp <= base[31:0];
                 result <= result * temp;
                 count <= count + 1;
              end 
@@ -35,7 +36,6 @@ module exponentiation_R  (
          end
        else
             begin
-                temp <= base[31:0];
                 done <= 0   ;
                 count <= 0;
             end

@@ -14,16 +14,16 @@ module CHECK_2 (
   begin
     if(!rst)
       begin
-      true_2 = 0 ;
-      r1_new = 0 ;
+      true_2 <= 0 ;
+      r1_new <= 0 ;
       end
     else if(done_i)
       begin
-      r1_new = c_2_i ^ k_i ;
+      r1_new <= c_2_i ^ k_i ;
       if (r1_new == r_1 )
-        true_2 = 1 ;
+        true_2 <= 1 ;
       else
-        true_2 = 0 ;
+        true_2 <= 0 ;
       end
     end
 endmodule
