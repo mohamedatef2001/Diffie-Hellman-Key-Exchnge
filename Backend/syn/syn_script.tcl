@@ -144,14 +144,14 @@ report_high_fanout_nets > reports/fanout.rpt
 # DFT Preparation Section
 ############################################################################
 
-set flops_per_chain 100
+#set flops_per_chain 100
 
-set num_flops [sizeof_collection [all_registers -edge_triggered]]
+#set num_flops [sizeof_collection [all_registers -edge_triggered]]
 
-set num_chains [expr $num_flops / $flops_per_chain + 1 ]
+#set num_chains [expr $num_flops / $flops_per_chain + 1 ]
 
 ################# starting graphical user interface #######################
 
-gui_start
+#gui_start
 
 #exit
