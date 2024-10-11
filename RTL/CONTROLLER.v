@@ -1,8 +1,8 @@
 module CONTROLKER (
-  input clk     ,
-  input rst     ,
-  input true_1  ,
-  input true_2  ,
+  input             clk     ,
+  input             rst     ,
+  input             true_1  ,
+  input             true_2  ,
   output reg [47:0] out
   );
   
@@ -66,7 +66,7 @@ module CONTROLKER (
        check_2 :   out = 'b010000010100001101000011010001010101000001010100; // ACCEPT
        default :   out = 0;
                     
-     endcase
+   endcase
   end
 endmodule
  

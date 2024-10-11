@@ -9,10 +9,10 @@ module CLC_R1_tb();
 
 
 test_32bits R1(
-.g(g_tb)  ,
-.p(p_tb)  ,
-.x(x_tb)  ,
-.st(st_tb),
+.g(g_tb)    ,
+.p(p_tb)    ,
+.x(x_tb)    ,
+.st(st_tb)  ,
 .clk(clk_tb),
 .rst(rst_tb),
 .r1(r1_tb)

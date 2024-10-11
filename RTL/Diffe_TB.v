@@ -56,7 +56,7 @@ begin
    
    #333
    ST_tb  = 0    ;
-   #50
+   #200
    $finish ;
  end
  endmodule
