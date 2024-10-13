@@ -14,22 +14,22 @@ module exponentiation (
     begin
         if (!rst) 
          begin
-            result <= 1;
-            temp   <= 0;
+            result <= 1; 
             count  <= 0;
+            temp   <= 1;
             done   <= 0;
          end 
          
         else if (start) 
          begin
-          if (count < exponent) 
+          if (count <= exponent) 
              begin
-                result <= result[31:0] * temp;
+                temp   <= base ;
+                result <= result * temp;
                 count  <= count + 1;
              end 
            else 
               begin
-                temp <= base;
                 done <= 1;
             end
          end
@@ -37,7 +37,7 @@ module exponentiation (
         else
               begin
                 result <= 1;
-                temp   <= 0;
+                temp   <= 1;
                 count  <= 0;
                 done   <= 0;
               end

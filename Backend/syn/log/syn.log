@@ -93,7 +93,7 @@ Inferred memory devices in process
 ===============================================================================
 |    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
 ===============================================================================
-|     r1_new_reg      | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     r1_new_reg      | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
 |     true_2_reg      | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
 ===============================================================================
 Presto compilation completed successfully.
@@ -109,15 +109,14 @@ Running PRESTO HDLC
 Compiling source file /home/IC/Diffe/rtl/CLC_R1.v
 
 Inferred memory devices in process
-	in routine CLC_R1 line 23 in file
+	in routine CLC_R1 line 24 in file
 		'/home/IC/Diffe/rtl/CLC_R1.v'.
 ===============================================================================
 |    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
 ===============================================================================
 |     value_1_reg     | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
-|       r1_reg        | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
-|     value_2_reg     | Flip-flop |  63   |  Y  | N  | Y  | N  | N  | N  | N  |
-|     value_2_reg     | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
+|       r1_reg        | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     value_2_reg     | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
 ===============================================================================
 Presto compilation completed successfully.
 Current design is now '/home/IC/Diffe/rtl/CLC_R1.db:CLC_R1'
@@ -132,16 +131,16 @@ Running PRESTO HDLC
 Compiling source file /home/IC/Diffe/rtl/CLC_R2.v
 
 Inferred memory devices in process
-	in routine CLC_R2 line 14 in file
+	in routine CLC_R2 line 15 in file
 		'/home/IC/Diffe/rtl/CLC_R2.v'.
 ===============================================================================
 |    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
 ===============================================================================
-|     value_1_reg     | Flip-flop |  63   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     value_1_reg     | Flip-flop |  31   |  Y  | N  | Y  | N  | N  | N  | N  |
 |     value_1_reg     | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
-|       r2_reg        | Flip-flop |  63   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       r2_reg        | Flip-flop |  31   |  Y  | N  | Y  | N  | N  | N  | N  |
 |       r2_reg        | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
-|     value_2_reg     | Flip-flop |  63   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     value_2_reg     | Flip-flop |  31   |  Y  | N  | Y  | N  | N  | N  | N  |
 |     value_2_reg     | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
 ===============================================================================
 Presto compilation completed successfully.
@@ -194,16 +193,16 @@ Running PRESTO HDLC
 Compiling source file /home/IC/Diffe/rtl/ENCRYPTION_R1.v
 
 Inferred memory devices in process
-	in routine ENCRYPTION_R1 line 18 in file
+	in routine ENCRYPTION_R1 line 19 in file
 		'/home/IC/Diffe/rtl/ENCRYPTION_R1.v'.
 ===============================================================================
 |    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
 ===============================================================================
-|       c2_reg        | Flip-flop |  60   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       c2_reg        | Flip-flop |  28   |  Y  | N  | Y  | N  | N  | N  | N  |
 |       c2_reg        | Flip-flop |   4   |  Y  | N  | N  | Y  | N  | N  | N  |
-|       k_1_reg       | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
-|     value_2_reg     | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
-|     r2_new_reg      | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       k_1_reg       | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     value_2_reg     | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     r2_new_reg      | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
 |      true_reg       | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
 |     value_1_reg     | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
 ===============================================================================
@@ -225,7 +224,7 @@ Inferred memory devices in process
 ===============================================================================
 |    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
 ===============================================================================
-|       c1_reg        | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       c1_reg        | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
 |       k_2_reg       | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
 |      value_reg      | Flip-flop |  64   |  Y  | N  | Y  | N  | N  | N  | N  |
 |    done_enc2_reg    | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
@@ -252,9 +251,10 @@ Inferred memory devices in process
 ===============================================================================
 |     result_reg      | Flip-flop |  63   |  Y  | N  | Y  | N  | N  | N  | N  |
 |     result_reg      | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
-|      count_reg      | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
-|      temp_reg       | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
 |      done_reg       | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
+|      count_reg      | Flip-flop |  32   |  Y  | N  | Y  | N  | N  | N  | N  |
+|      temp_reg       | Flip-flop |  31   |  Y  | N  | Y  | N  | N  | N  | N  |
+|      temp_reg       | Flip-flop |   1   |  N  | N  | N  | Y  | N  | N  | N  |
 ===============================================================================
 Presto compilation completed successfully.
 Current design is now '/home/IC/Diffe/rtl/exponentiation.db:exponentiation'
@@ -409,38 +409,6 @@ CLC_R1          cell    value_1_reg[3]          value_1_reg_3_
 CLC_R1          cell    value_1_reg[2]          value_1_reg_2_
 CLC_R1          cell    value_1_reg[1]          value_1_reg_1_
 CLC_R1          cell    value_1_reg[0]          value_1_reg_0_
-CLC_R1          cell    r1_reg[63]              r1_reg_63_
-CLC_R1          cell    r1_reg[62]              r1_reg_62_
-CLC_R1          cell    r1_reg[61]              r1_reg_61_
-CLC_R1          cell    r1_reg[60]              r1_reg_60_
-CLC_R1          cell    r1_reg[59]              r1_reg_59_
-CLC_R1          cell    r1_reg[58]              r1_reg_58_
-CLC_R1          cell    r1_reg[57]              r1_reg_57_
-CLC_R1          cell    r1_reg[56]              r1_reg_56_
-CLC_R1          cell    r1_reg[55]              r1_reg_55_
-CLC_R1          cell    r1_reg[54]              r1_reg_54_
-CLC_R1          cell    r1_reg[53]              r1_reg_53_
-CLC_R1          cell    r1_reg[52]              r1_reg_52_
-CLC_R1          cell    r1_reg[51]              r1_reg_51_
-CLC_R1          cell    r1_reg[50]              r1_reg_50_
-CLC_R1          cell    r1_reg[49]              r1_reg_49_
-CLC_R1          cell    r1_reg[48]              r1_reg_48_
-CLC_R1          cell    r1_reg[47]              r1_reg_47_
-CLC_R1          cell    r1_reg[46]              r1_reg_46_
-CLC_R1          cell    r1_reg[45]              r1_reg_45_
-CLC_R1          cell    r1_reg[44]              r1_reg_44_
-CLC_R1          cell    r1_reg[43]              r1_reg_43_
-CLC_R1          cell    r1_reg[42]              r1_reg_42_
-CLC_R1          cell    r1_reg[41]              r1_reg_41_
-CLC_R1          cell    r1_reg[40]              r1_reg_40_
-CLC_R1          cell    r1_reg[39]              r1_reg_39_
-CLC_R1          cell    r1_reg[38]              r1_reg_38_
-CLC_R1          cell    r1_reg[37]              r1_reg_37_
-CLC_R1          cell    r1_reg[36]              r1_reg_36_
-CLC_R1          cell    r1_reg[35]              r1_reg_35_
-CLC_R1          cell    r1_reg[34]              r1_reg_34_
-CLC_R1          cell    r1_reg[33]              r1_reg_33_
-CLC_R1          cell    r1_reg[32]              r1_reg_32_
 CLC_R1          cell    r1_reg[31]              r1_reg_31_
 CLC_R1          cell    r1_reg[30]              r1_reg_30_
 CLC_R1          cell    r1_reg[29]              r1_reg_29_
@@ -473,38 +441,6 @@ CLC_R1          cell    r1_reg[3]               r1_reg_3_
 CLC_R1          cell    r1_reg[2]               r1_reg_2_
 CLC_R1          cell    r1_reg[1]               r1_reg_1_
 CLC_R1          cell    r1_reg[0]               r1_reg_0_
-CLC_R1          cell    value_2_reg[63]         value_2_reg_63_
-CLC_R1          cell    value_2_reg[62]         value_2_reg_62_
-CLC_R1          cell    value_2_reg[61]         value_2_reg_61_
-CLC_R1          cell    value_2_reg[60]         value_2_reg_60_
-CLC_R1          cell    value_2_reg[59]         value_2_reg_59_
-CLC_R1          cell    value_2_reg[58]         value_2_reg_58_
-CLC_R1          cell    value_2_reg[57]         value_2_reg_57_
-CLC_R1          cell    value_2_reg[56]         value_2_reg_56_
-CLC_R1          cell    value_2_reg[55]         value_2_reg_55_
-CLC_R1          cell    value_2_reg[54]         value_2_reg_54_
-CLC_R1          cell    value_2_reg[53]         value_2_reg_53_
-CLC_R1          cell    value_2_reg[52]         value_2_reg_52_
-CLC_R1          cell    value_2_reg[51]         value_2_reg_51_
-CLC_R1          cell    value_2_reg[50]         value_2_reg_50_
-CLC_R1          cell    value_2_reg[49]         value_2_reg_49_
-CLC_R1          cell    value_2_reg[48]         value_2_reg_48_
-CLC_R1          cell    value_2_reg[47]         value_2_reg_47_
-CLC_R1          cell    value_2_reg[46]         value_2_reg_46_
-CLC_R1          cell    value_2_reg[45]         value_2_reg_45_
-CLC_R1          cell    value_2_reg[44]         value_2_reg_44_
-CLC_R1          cell    value_2_reg[43]         value_2_reg_43_
-CLC_R1          cell    value_2_reg[42]         value_2_reg_42_
-CLC_R1          cell    value_2_reg[41]         value_2_reg_41_
-CLC_R1          cell    value_2_reg[40]         value_2_reg_40_
-CLC_R1          cell    value_2_reg[39]         value_2_reg_39_
-CLC_R1          cell    value_2_reg[38]         value_2_reg_38_
-CLC_R1          cell    value_2_reg[37]         value_2_reg_37_
-CLC_R1          cell    value_2_reg[36]         value_2_reg_36_
-CLC_R1          cell    value_2_reg[35]         value_2_reg_35_
-CLC_R1          cell    value_2_reg[34]         value_2_reg_34_
-CLC_R1          cell    value_2_reg[33]         value_2_reg_33_
-CLC_R1          cell    value_2_reg[32]         value_2_reg_32_
 CLC_R1          cell    value_2_reg[31]         value_2_reg_31_
 CLC_R1          cell    value_2_reg[30]         value_2_reg_30_
 CLC_R1          cell    value_2_reg[29]         value_2_reg_29_
@@ -539,38 +475,6 @@ CLC_R1          cell    value_2_reg[1]          value_2_reg_1_
 CLC_R1          cell    value_2_reg[0]          value_2_reg_0_
 CLC_R1          net     *Logic1*                n_Logic1_
 CLC_R1          net     *Logic0*                n_Logic0_
-ENCRYPTION_R2   cell    c1_reg[63]              c1_reg_63_
-ENCRYPTION_R2   cell    c1_reg[62]              c1_reg_62_
-ENCRYPTION_R2   cell    c1_reg[61]              c1_reg_61_
-ENCRYPTION_R2   cell    c1_reg[60]              c1_reg_60_
-ENCRYPTION_R2   cell    c1_reg[59]              c1_reg_59_
-ENCRYPTION_R2   cell    c1_reg[58]              c1_reg_58_
-ENCRYPTION_R2   cell    c1_reg[57]              c1_reg_57_
-ENCRYPTION_R2   cell    c1_reg[56]              c1_reg_56_
-ENCRYPTION_R2   cell    c1_reg[55]              c1_reg_55_
-ENCRYPTION_R2   cell    c1_reg[54]              c1_reg_54_
-ENCRYPTION_R2   cell    c1_reg[53]              c1_reg_53_
-ENCRYPTION_R2   cell    c1_reg[52]              c1_reg_52_
-ENCRYPTION_R2   cell    c1_reg[51]              c1_reg_51_
-ENCRYPTION_R2   cell    c1_reg[50]              c1_reg_50_
-ENCRYPTION_R2   cell    c1_reg[49]              c1_reg_49_
-ENCRYPTION_R2   cell    c1_reg[48]              c1_reg_48_
-ENCRYPTION_R2   cell    c1_reg[47]              c1_reg_47_
-ENCRYPTION_R2   cell    c1_reg[46]              c1_reg_46_
-ENCRYPTION_R2   cell    c1_reg[45]              c1_reg_45_
-ENCRYPTION_R2   cell    c1_reg[44]              c1_reg_44_
-ENCRYPTION_R2   cell    c1_reg[43]              c1_reg_43_
-ENCRYPTION_R2   cell    c1_reg[42]              c1_reg_42_
-ENCRYPTION_R2   cell    c1_reg[41]              c1_reg_41_
-ENCRYPTION_R2   cell    c1_reg[40]              c1_reg_40_
-ENCRYPTION_R2   cell    c1_reg[39]              c1_reg_39_
-ENCRYPTION_R2   cell    c1_reg[38]              c1_reg_38_
-ENCRYPTION_R2   cell    c1_reg[37]              c1_reg_37_
-ENCRYPTION_R2   cell    c1_reg[36]              c1_reg_36_
-ENCRYPTION_R2   cell    c1_reg[35]              c1_reg_35_
-ENCRYPTION_R2   cell    c1_reg[34]              c1_reg_34_
-ENCRYPTION_R2   cell    c1_reg[33]              c1_reg_33_
-ENCRYPTION_R2   cell    c1_reg[32]              c1_reg_32_
 ENCRYPTION_R2   cell    c1_reg[31]              c1_reg_31_
 ENCRYPTION_R2   cell    c1_reg[30]              c1_reg_30_
 ENCRYPTION_R2   cell    c1_reg[29]              c1_reg_29_
@@ -861,38 +765,6 @@ ENCRYPTION_R2   cell    value_2_reg[1]          value_2_reg_1_
 ENCRYPTION_R2   cell    value_2_reg[0]          value_2_reg_0_
 ENCRYPTION_R2   net     *Logic1*                n_Logic1_
 ENCRYPTION_R2   net     *Logic0*                n_Logic0_
-CLC_R2          cell    value_1_reg[63]         value_1_reg_63_
-CLC_R2          cell    value_1_reg[62]         value_1_reg_62_
-CLC_R2          cell    value_1_reg[61]         value_1_reg_61_
-CLC_R2          cell    value_1_reg[60]         value_1_reg_60_
-CLC_R2          cell    value_1_reg[59]         value_1_reg_59_
-CLC_R2          cell    value_1_reg[58]         value_1_reg_58_
-CLC_R2          cell    value_1_reg[57]         value_1_reg_57_
-CLC_R2          cell    value_1_reg[56]         value_1_reg_56_
-CLC_R2          cell    value_1_reg[55]         value_1_reg_55_
-CLC_R2          cell    value_1_reg[54]         value_1_reg_54_
-CLC_R2          cell    value_1_reg[53]         value_1_reg_53_
-CLC_R2          cell    value_1_reg[52]         value_1_reg_52_
-CLC_R2          cell    value_1_reg[51]         value_1_reg_51_
-CLC_R2          cell    value_1_reg[50]         value_1_reg_50_
-CLC_R2          cell    value_1_reg[49]         value_1_reg_49_
-CLC_R2          cell    value_1_reg[48]         value_1_reg_48_
-CLC_R2          cell    value_1_reg[47]         value_1_reg_47_
-CLC_R2          cell    value_1_reg[46]         value_1_reg_46_
-CLC_R2          cell    value_1_reg[45]         value_1_reg_45_
-CLC_R2          cell    value_1_reg[44]         value_1_reg_44_
-CLC_R2          cell    value_1_reg[43]         value_1_reg_43_
-CLC_R2          cell    value_1_reg[42]         value_1_reg_42_
-CLC_R2          cell    value_1_reg[41]         value_1_reg_41_
-CLC_R2          cell    value_1_reg[40]         value_1_reg_40_
-CLC_R2          cell    value_1_reg[39]         value_1_reg_39_
-CLC_R2          cell    value_1_reg[38]         value_1_reg_38_
-CLC_R2          cell    value_1_reg[37]         value_1_reg_37_
-CLC_R2          cell    value_1_reg[36]         value_1_reg_36_
-CLC_R2          cell    value_1_reg[35]         value_1_reg_35_
-CLC_R2          cell    value_1_reg[34]         value_1_reg_34_
-CLC_R2          cell    value_1_reg[33]         value_1_reg_33_
-CLC_R2          cell    value_1_reg[32]         value_1_reg_32_
 CLC_R2          cell    value_1_reg[31]         value_1_reg_31_
 CLC_R2          cell    value_1_reg[30]         value_1_reg_30_
 CLC_R2          cell    value_1_reg[29]         value_1_reg_29_
@@ -925,38 +797,6 @@ CLC_R2          cell    value_1_reg[3]          value_1_reg_3_
 CLC_R2          cell    value_1_reg[2]          value_1_reg_2_
 CLC_R2          cell    value_1_reg[1]          value_1_reg_1_
 CLC_R2          cell    value_1_reg[0]          value_1_reg_0_
-CLC_R2          cell    r2_reg[63]              r2_reg_63_
-CLC_R2          cell    r2_reg[62]              r2_reg_62_
-CLC_R2          cell    r2_reg[61]              r2_reg_61_
-CLC_R2          cell    r2_reg[60]              r2_reg_60_
-CLC_R2          cell    r2_reg[59]              r2_reg_59_
-CLC_R2          cell    r2_reg[58]              r2_reg_58_
-CLC_R2          cell    r2_reg[57]              r2_reg_57_
-CLC_R2          cell    r2_reg[56]              r2_reg_56_
-CLC_R2          cell    r2_reg[55]              r2_reg_55_
-CLC_R2          cell    r2_reg[54]              r2_reg_54_
-CLC_R2          cell    r2_reg[53]              r2_reg_53_
-CLC_R2          cell    r2_reg[52]              r2_reg_52_
-CLC_R2          cell    r2_reg[51]              r2_reg_51_
-CLC_R2          cell    r2_reg[50]              r2_reg_50_
-CLC_R2          cell    r2_reg[49]              r2_reg_49_
-CLC_R2          cell    r2_reg[48]              r2_reg_48_
-CLC_R2          cell    r2_reg[47]              r2_reg_47_
-CLC_R2          cell    r2_reg[46]              r2_reg_46_
-CLC_R2          cell    r2_reg[45]              r2_reg_45_
-CLC_R2          cell    r2_reg[44]              r2_reg_44_
-CLC_R2          cell    r2_reg[43]              r2_reg_43_
-CLC_R2          cell    r2_reg[42]              r2_reg_42_
-CLC_R2          cell    r2_reg[41]              r2_reg_41_
-CLC_R2          cell    r2_reg[40]              r2_reg_40_
-CLC_R2          cell    r2_reg[39]              r2_reg_39_
-CLC_R2          cell    r2_reg[38]              r2_reg_38_
-CLC_R2          cell    r2_reg[37]              r2_reg_37_
-CLC_R2          cell    r2_reg[36]              r2_reg_36_
-CLC_R2          cell    r2_reg[35]              r2_reg_35_
-CLC_R2          cell    r2_reg[34]              r2_reg_34_
-CLC_R2          cell    r2_reg[33]              r2_reg_33_
-CLC_R2          cell    r2_reg[32]              r2_reg_32_
 CLC_R2          cell    r2_reg[31]              r2_reg_31_
 CLC_R2          cell    r2_reg[30]              r2_reg_30_
 CLC_R2          cell    r2_reg[29]              r2_reg_29_
@@ -989,38 +829,6 @@ CLC_R2          cell    r2_reg[3]               r2_reg_3_
 CLC_R2          cell    r2_reg[2]               r2_reg_2_
 CLC_R2          cell    r2_reg[1]               r2_reg_1_
 CLC_R2          cell    r2_reg[0]               r2_reg_0_
-CLC_R2          cell    value_2_reg[63]         value_2_reg_63_
-CLC_R2          cell    value_2_reg[62]         value_2_reg_62_
-CLC_R2          cell    value_2_reg[61]         value_2_reg_61_
-CLC_R2          cell    value_2_reg[60]         value_2_reg_60_
-CLC_R2          cell    value_2_reg[59]         value_2_reg_59_
-CLC_R2          cell    value_2_reg[58]         value_2_reg_58_
-CLC_R2          cell    value_2_reg[57]         value_2_reg_57_
-CLC_R2          cell    value_2_reg[56]         value_2_reg_56_
-CLC_R2          cell    value_2_reg[55]         value_2_reg_55_
-CLC_R2          cell    value_2_reg[54]         value_2_reg_54_
-CLC_R2          cell    value_2_reg[53]         value_2_reg_53_
-CLC_R2          cell    value_2_reg[52]         value_2_reg_52_
-CLC_R2          cell    value_2_reg[51]         value_2_reg_51_
-CLC_R2          cell    value_2_reg[50]         value_2_reg_50_
-CLC_R2          cell    value_2_reg[49]         value_2_reg_49_
-CLC_R2          cell    value_2_reg[48]         value_2_reg_48_
-CLC_R2          cell    value_2_reg[47]         value_2_reg_47_
-CLC_R2          cell    value_2_reg[46]         value_2_reg_46_
-CLC_R2          cell    value_2_reg[45]         value_2_reg_45_
-CLC_R2          cell    value_2_reg[44]         value_2_reg_44_
-CLC_R2          cell    value_2_reg[43]         value_2_reg_43_
-CLC_R2          cell    value_2_reg[42]         value_2_reg_42_
-CLC_R2          cell    value_2_reg[41]         value_2_reg_41_
-CLC_R2          cell    value_2_reg[40]         value_2_reg_40_
-CLC_R2          cell    value_2_reg[39]         value_2_reg_39_
-CLC_R2          cell    value_2_reg[38]         value_2_reg_38_
-CLC_R2          cell    value_2_reg[37]         value_2_reg_37_
-CLC_R2          cell    value_2_reg[36]         value_2_reg_36_
-CLC_R2          cell    value_2_reg[35]         value_2_reg_35_
-CLC_R2          cell    value_2_reg[34]         value_2_reg_34_
-CLC_R2          cell    value_2_reg[33]         value_2_reg_33_
-CLC_R2          cell    value_2_reg[32]         value_2_reg_32_
 CLC_R2          cell    value_2_reg[31]         value_2_reg_31_
 CLC_R2          cell    value_2_reg[30]         value_2_reg_30_
 CLC_R2          cell    value_2_reg[29]         value_2_reg_29_
@@ -1055,38 +863,6 @@ CLC_R2          cell    value_2_reg[1]          value_2_reg_1_
 CLC_R2          cell    value_2_reg[0]          value_2_reg_0_
 CLC_R2          net     *Logic1*                n_Logic1_
 CLC_R2          net     *Logic0*                n_Logic0_
-ENCRYPTION_R1   cell    c2_reg[63]              c2_reg_63_
-ENCRYPTION_R1   cell    c2_reg[62]              c2_reg_62_
-ENCRYPTION_R1   cell    c2_reg[61]              c2_reg_61_
-ENCRYPTION_R1   cell    c2_reg[60]              c2_reg_60_
-ENCRYPTION_R1   cell    c2_reg[59]              c2_reg_59_
-ENCRYPTION_R1   cell    c2_reg[58]              c2_reg_58_
-ENCRYPTION_R1   cell    c2_reg[57]              c2_reg_57_
-ENCRYPTION_R1   cell    c2_reg[56]              c2_reg_56_
-ENCRYPTION_R1   cell    c2_reg[55]              c2_reg_55_
-ENCRYPTION_R1   cell    c2_reg[54]              c2_reg_54_
-ENCRYPTION_R1   cell    c2_reg[53]              c2_reg_53_
-ENCRYPTION_R1   cell    c2_reg[52]              c2_reg_52_
-ENCRYPTION_R1   cell    c2_reg[51]              c2_reg_51_
-ENCRYPTION_R1   cell    c2_reg[50]              c2_reg_50_
-ENCRYPTION_R1   cell    c2_reg[49]              c2_reg_49_
-ENCRYPTION_R1   cell    c2_reg[48]              c2_reg_48_
-ENCRYPTION_R1   cell    c2_reg[47]              c2_reg_47_
-ENCRYPTION_R1   cell    c2_reg[46]              c2_reg_46_
-ENCRYPTION_R1   cell    c2_reg[45]              c2_reg_45_
-ENCRYPTION_R1   cell    c2_reg[44]              c2_reg_44_
-ENCRYPTION_R1   cell    c2_reg[43]              c2_reg_43_
-ENCRYPTION_R1   cell    c2_reg[42]              c2_reg_42_
-ENCRYPTION_R1   cell    c2_reg[41]              c2_reg_41_
-ENCRYPTION_R1   cell    c2_reg[40]              c2_reg_40_
-ENCRYPTION_R1   cell    c2_reg[39]              c2_reg_39_
-ENCRYPTION_R1   cell    c2_reg[38]              c2_reg_38_
-ENCRYPTION_R1   cell    c2_reg[37]              c2_reg_37_
-ENCRYPTION_R1   cell    c2_reg[36]              c2_reg_36_
-ENCRYPTION_R1   cell    c2_reg[35]              c2_reg_35_
-ENCRYPTION_R1   cell    c2_reg[34]              c2_reg_34_
-ENCRYPTION_R1   cell    c2_reg[33]              c2_reg_33_
-ENCRYPTION_R1   cell    c2_reg[32]              c2_reg_32_
 ENCRYPTION_R1   cell    c2_reg[31]              c2_reg_31_
 ENCRYPTION_R1   cell    c2_reg[30]              c2_reg_30_
 ENCRYPTION_R1   cell    c2_reg[29]              c2_reg_29_
@@ -1119,38 +895,6 @@ ENCRYPTION_R1   cell    c2_reg[3]               c2_reg_3_
 ENCRYPTION_R1   cell    c2_reg[2]               c2_reg_2_
 ENCRYPTION_R1   cell    c2_reg[1]               c2_reg_1_
 ENCRYPTION_R1   cell    c2_reg[0]               c2_reg_0_
-ENCRYPTION_R1   cell    k_1_reg[63]             k_1_reg_63_
-ENCRYPTION_R1   cell    k_1_reg[62]             k_1_reg_62_
-ENCRYPTION_R1   cell    k_1_reg[61]             k_1_reg_61_
-ENCRYPTION_R1   cell    k_1_reg[60]             k_1_reg_60_
-ENCRYPTION_R1   cell    k_1_reg[59]             k_1_reg_59_
-ENCRYPTION_R1   cell    k_1_reg[58]             k_1_reg_58_
-ENCRYPTION_R1   cell    k_1_reg[57]             k_1_reg_57_
-ENCRYPTION_R1   cell    k_1_reg[56]             k_1_reg_56_
-ENCRYPTION_R1   cell    k_1_reg[55]             k_1_reg_55_
-ENCRYPTION_R1   cell    k_1_reg[54]             k_1_reg_54_
-ENCRYPTION_R1   cell    k_1_reg[53]             k_1_reg_53_
-ENCRYPTION_R1   cell    k_1_reg[52]             k_1_reg_52_
-ENCRYPTION_R1   cell    k_1_reg[51]             k_1_reg_51_
-ENCRYPTION_R1   cell    k_1_reg[50]             k_1_reg_50_
-ENCRYPTION_R1   cell    k_1_reg[49]             k_1_reg_49_
-ENCRYPTION_R1   cell    k_1_reg[48]             k_1_reg_48_
-ENCRYPTION_R1   cell    k_1_reg[47]             k_1_reg_47_
-ENCRYPTION_R1   cell    k_1_reg[46]             k_1_reg_46_
-ENCRYPTION_R1   cell    k_1_reg[45]             k_1_reg_45_
-ENCRYPTION_R1   cell    k_1_reg[44]             k_1_reg_44_
-ENCRYPTION_R1   cell    k_1_reg[43]             k_1_reg_43_
-ENCRYPTION_R1   cell    k_1_reg[42]             k_1_reg_42_
-ENCRYPTION_R1   cell    k_1_reg[41]             k_1_reg_41_
-ENCRYPTION_R1   cell    k_1_reg[40]             k_1_reg_40_
-ENCRYPTION_R1   cell    k_1_reg[39]             k_1_reg_39_
-ENCRYPTION_R1   cell    k_1_reg[38]             k_1_reg_38_
-ENCRYPTION_R1   cell    k_1_reg[37]             k_1_reg_37_
-ENCRYPTION_R1   cell    k_1_reg[36]             k_1_reg_36_
-ENCRYPTION_R1   cell    k_1_reg[35]             k_1_reg_35_
-ENCRYPTION_R1   cell    k_1_reg[34]             k_1_reg_34_
-ENCRYPTION_R1   cell    k_1_reg[33]             k_1_reg_33_
-ENCRYPTION_R1   cell    k_1_reg[32]             k_1_reg_32_
 ENCRYPTION_R1   cell    k_1_reg[31]             k_1_reg_31_
 ENCRYPTION_R1   cell    k_1_reg[30]             k_1_reg_30_
 ENCRYPTION_R1   cell    k_1_reg[29]             k_1_reg_29_
@@ -1183,38 +927,6 @@ ENCRYPTION_R1   cell    k_1_reg[3]              k_1_reg_3_
 ENCRYPTION_R1   cell    k_1_reg[2]              k_1_reg_2_
 ENCRYPTION_R1   cell    k_1_reg[1]              k_1_reg_1_
 ENCRYPTION_R1   cell    k_1_reg[0]              k_1_reg_0_
-ENCRYPTION_R1   cell    value_2_reg[63]         value_2_reg_63_
-ENCRYPTION_R1   cell    value_2_reg[62]         value_2_reg_62_
-ENCRYPTION_R1   cell    value_2_reg[61]         value_2_reg_61_
-ENCRYPTION_R1   cell    value_2_reg[60]         value_2_reg_60_
-ENCRYPTION_R1   cell    value_2_reg[59]         value_2_reg_59_
-ENCRYPTION_R1   cell    value_2_reg[58]         value_2_reg_58_
-ENCRYPTION_R1   cell    value_2_reg[57]         value_2_reg_57_
-ENCRYPTION_R1   cell    value_2_reg[56]         value_2_reg_56_
-ENCRYPTION_R1   cell    value_2_reg[55]         value_2_reg_55_
-ENCRYPTION_R1   cell    value_2_reg[54]         value_2_reg_54_
-ENCRYPTION_R1   cell    value_2_reg[53]         value_2_reg_53_
-ENCRYPTION_R1   cell    value_2_reg[52]         value_2_reg_52_
-ENCRYPTION_R1   cell    value_2_reg[51]         value_2_reg_51_
-ENCRYPTION_R1   cell    value_2_reg[50]         value_2_reg_50_
-ENCRYPTION_R1   cell    value_2_reg[49]         value_2_reg_49_
-ENCRYPTION_R1   cell    value_2_reg[48]         value_2_reg_48_
-ENCRYPTION_R1   cell    value_2_reg[47]         value_2_reg_47_
-ENCRYPTION_R1   cell    value_2_reg[46]         value_2_reg_46_
-ENCRYPTION_R1   cell    value_2_reg[45]         value_2_reg_45_
-ENCRYPTION_R1   cell    value_2_reg[44]         value_2_reg_44_
-ENCRYPTION_R1   cell    value_2_reg[43]         value_2_reg_43_
-ENCRYPTION_R1   cell    value_2_reg[42]         value_2_reg_42_
-ENCRYPTION_R1   cell    value_2_reg[41]         value_2_reg_41_
-ENCRYPTION_R1   cell    value_2_reg[40]         value_2_reg_40_
-ENCRYPTION_R1   cell    value_2_reg[39]         value_2_reg_39_
-ENCRYPTION_R1   cell    value_2_reg[38]         value_2_reg_38_
-ENCRYPTION_R1   cell    value_2_reg[37]         value_2_reg_37_
-ENCRYPTION_R1   cell    value_2_reg[36]         value_2_reg_36_
-ENCRYPTION_R1   cell    value_2_reg[35]         value_2_reg_35_
-ENCRYPTION_R1   cell    value_2_reg[34]         value_2_reg_34_
-ENCRYPTION_R1   cell    value_2_reg[33]         value_2_reg_33_
-ENCRYPTION_R1   cell    value_2_reg[32]         value_2_reg_32_
 ENCRYPTION_R1   cell    value_2_reg[31]         value_2_reg_31_
 ENCRYPTION_R1   cell    value_2_reg[30]         value_2_reg_30_
 ENCRYPTION_R1   cell    value_2_reg[29]         value_2_reg_29_
@@ -1247,38 +959,6 @@ ENCRYPTION_R1   cell    value_2_reg[3]          value_2_reg_3_
 ENCRYPTION_R1   cell    value_2_reg[2]          value_2_reg_2_
 ENCRYPTION_R1   cell    value_2_reg[1]          value_2_reg_1_
 ENCRYPTION_R1   cell    value_2_reg[0]          value_2_reg_0_
-ENCRYPTION_R1   cell    r2_new_reg[63]          r2_new_reg_63_
-ENCRYPTION_R1   cell    r2_new_reg[62]          r2_new_reg_62_
-ENCRYPTION_R1   cell    r2_new_reg[61]          r2_new_reg_61_
-ENCRYPTION_R1   cell    r2_new_reg[60]          r2_new_reg_60_
-ENCRYPTION_R1   cell    r2_new_reg[59]          r2_new_reg_59_
-ENCRYPTION_R1   cell    r2_new_reg[58]          r2_new_reg_58_
-ENCRYPTION_R1   cell    r2_new_reg[57]          r2_new_reg_57_
-ENCRYPTION_R1   cell    r2_new_reg[56]          r2_new_reg_56_
-ENCRYPTION_R1   cell    r2_new_reg[55]          r2_new_reg_55_
-ENCRYPTION_R1   cell    r2_new_reg[54]          r2_new_reg_54_
-ENCRYPTION_R1   cell    r2_new_reg[53]          r2_new_reg_53_
-ENCRYPTION_R1   cell    r2_new_reg[52]          r2_new_reg_52_
-ENCRYPTION_R1   cell    r2_new_reg[51]          r2_new_reg_51_
-ENCRYPTION_R1   cell    r2_new_reg[50]          r2_new_reg_50_
-ENCRYPTION_R1   cell    r2_new_reg[49]          r2_new_reg_49_
-ENCRYPTION_R1   cell    r2_new_reg[48]          r2_new_reg_48_
-ENCRYPTION_R1   cell    r2_new_reg[47]          r2_new_reg_47_
-ENCRYPTION_R1   cell    r2_new_reg[46]          r2_new_reg_46_
-ENCRYPTION_R1   cell    r2_new_reg[45]          r2_new_reg_45_
-ENCRYPTION_R1   cell    r2_new_reg[44]          r2_new_reg_44_
-ENCRYPTION_R1   cell    r2_new_reg[43]          r2_new_reg_43_
-ENCRYPTION_R1   cell    r2_new_reg[42]          r2_new_reg_42_
-ENCRYPTION_R1   cell    r2_new_reg[41]          r2_new_reg_41_
-ENCRYPTION_R1   cell    r2_new_reg[40]          r2_new_reg_40_
-ENCRYPTION_R1   cell    r2_new_reg[39]          r2_new_reg_39_
-ENCRYPTION_R1   cell    r2_new_reg[38]          r2_new_reg_38_
-ENCRYPTION_R1   cell    r2_new_reg[37]          r2_new_reg_37_
-ENCRYPTION_R1   cell    r2_new_reg[36]          r2_new_reg_36_
-ENCRYPTION_R1   cell    r2_new_reg[35]          r2_new_reg_35_
-ENCRYPTION_R1   cell    r2_new_reg[34]          r2_new_reg_34_
-ENCRYPTION_R1   cell    r2_new_reg[33]          r2_new_reg_33_
-ENCRYPTION_R1   cell    r2_new_reg[32]          r2_new_reg_32_
 ENCRYPTION_R1   cell    r2_new_reg[31]          r2_new_reg_31_
 ENCRYPTION_R1   cell    r2_new_reg[30]          r2_new_reg_30_
 ENCRYPTION_R1   cell    r2_new_reg[29]          r2_new_reg_29_
@@ -1377,38 +1057,6 @@ ENCRYPTION_R1   cell    value_1_reg[1]          value_1_reg_1_
 ENCRYPTION_R1   cell    value_1_reg[0]          value_1_reg_0_
 ENCRYPTION_R1   net     *Logic1*                n_Logic1_
 ENCRYPTION_R1   net     *Logic0*                n_Logic0_
-CHECK_2         cell    r1_new_reg[63]          r1_new_reg_63_
-CHECK_2         cell    r1_new_reg[62]          r1_new_reg_62_
-CHECK_2         cell    r1_new_reg[61]          r1_new_reg_61_
-CHECK_2         cell    r1_new_reg[60]          r1_new_reg_60_
-CHECK_2         cell    r1_new_reg[59]          r1_new_reg_59_
-CHECK_2         cell    r1_new_reg[58]          r1_new_reg_58_
-CHECK_2         cell    r1_new_reg[57]          r1_new_reg_57_
-CHECK_2         cell    r1_new_reg[56]          r1_new_reg_56_
-CHECK_2         cell    r1_new_reg[55]          r1_new_reg_55_
-CHECK_2         cell    r1_new_reg[54]          r1_new_reg_54_
-CHECK_2         cell    r1_new_reg[53]          r1_new_reg_53_
-CHECK_2         cell    r1_new_reg[52]          r1_new_reg_52_
-CHECK_2         cell    r1_new_reg[51]          r1_new_reg_51_
-CHECK_2         cell    r1_new_reg[50]          r1_new_reg_50_
-CHECK_2         cell    r1_new_reg[49]          r1_new_reg_49_
-CHECK_2         cell    r1_new_reg[48]          r1_new_reg_48_
-CHECK_2         cell    r1_new_reg[47]          r1_new_reg_47_
-CHECK_2         cell    r1_new_reg[46]          r1_new_reg_46_
-CHECK_2         cell    r1_new_reg[45]          r1_new_reg_45_
-CHECK_2         cell    r1_new_reg[44]          r1_new_reg_44_
-CHECK_2         cell    r1_new_reg[43]          r1_new_reg_43_
-CHECK_2         cell    r1_new_reg[42]          r1_new_reg_42_
-CHECK_2         cell    r1_new_reg[41]          r1_new_reg_41_
-CHECK_2         cell    r1_new_reg[40]          r1_new_reg_40_
-CHECK_2         cell    r1_new_reg[39]          r1_new_reg_39_
-CHECK_2         cell    r1_new_reg[38]          r1_new_reg_38_
-CHECK_2         cell    r1_new_reg[37]          r1_new_reg_37_
-CHECK_2         cell    r1_new_reg[36]          r1_new_reg_36_
-CHECK_2         cell    r1_new_reg[35]          r1_new_reg_35_
-CHECK_2         cell    r1_new_reg[34]          r1_new_reg_34_
-CHECK_2         cell    r1_new_reg[33]          r1_new_reg_33_
-CHECK_2         cell    r1_new_reg[32]          r1_new_reg_32_
 CHECK_2         cell    r1_new_reg[31]          r1_new_reg_31_
 CHECK_2         cell    r1_new_reg[30]          r1_new_reg_30_
 CHECK_2         cell    r1_new_reg[29]          r1_new_reg_29_
@@ -1766,9 +1414,9 @@ set_fix_multiple_port_nets -all -buffer_constant -feedthroughs
 # 4. Clock Transitions
 ####################################################################################
 # Note : get_ports is used when you need to interact with the external interface of your design, whereas get_clocks is used when you need to manage and analyze the timing characteristics of clock signals
-# Master Clock Definitions  [2 MHz]
+# Master Clock Definitions  [1.4285 MHz]
 set CLK_NAME CLK
-set CLK_PRE 666
+set CLK_PRE 700
 create_clock -name $CLK_NAME -period $CLK_PRE -waveform "0 [expr $CLK_PRE/2]" [get_ports CLK]
 # SKEW
 set CLK_SETUP_SKEW 0.1
@@ -2116,7 +1764,7 @@ Information: Evaluating DesignWare library utilization. (UISN-27)
 ============================================================================
 
 
-Information: There are 112 potential problems in your design. Please run 'check_design' for more information. (LINT-99)
+Information: There are 240 potential problems in your design. Please run 'check_design' for more information. (LINT-99)
 
 
 Warning: Operating condition scmetro_tsmc_cl013g_rvt_ss_1p08v_125c set on design Diffe_TOP has different process,
@@ -2182,50 +1830,48 @@ Information: Updating design information... (UID-85)
    ELAPSED            WORST NEG   SETUP    DESIGN                            
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
   --------- --------- --------- --------- --------- -------------------------
-    0:00:43 16702438.0     18.85      27.8    3548.3                          
-    0:00:43 16702438.0     18.85      27.8    3548.3                          
-    0:00:49 16929456.3      0.00       0.0    2285.8                          
-    0:00:50 17071767.8      0.00       0.0    2021.1                          
-    0:00:52 17293156.4      0.00       0.0    1671.7                          
-    0:01:04 17485088.6      0.00       0.0    1699.0                          
-    0:01:04 17485088.6      0.00       0.0    1699.0                          
-    0:01:04 17485088.6      0.00       0.0    1699.0                          
-    0:01:04 17485088.6      0.00       0.0    1699.0                          
-    0:01:04 17485088.6      0.00       0.0    1699.0                          
-    0:01:22 16486132.0    259.21    7856.6     435.5                          
-    0:01:30 16533729.7    173.56    4161.9     434.6                          
-    0:01:36 16583614.8    116.16    2050.8     205.3                          
-    0:01:37 16586172.9    113.12    1970.9     203.7                          
-    0:01:39 16586400.0    113.20    1973.2     203.7                          
-    0:01:40 16586394.1    113.00    1967.2     203.7                          
-    0:01:40 16586374.1    112.94    1965.0     203.7                          
-    0:01:41 16586368.2    112.96    1965.3     203.7                          
-    0:01:42 16586374.1    112.94    1965.0     203.7                          
-    0:01:43 16586368.2    112.96    1965.3     203.7                          
-    0:01:43 16586368.2    112.96    1965.3     203.7                          
-    0:01:44 16586368.2    112.96    1965.3     203.7                          
-    0:01:44 16586368.2    112.96    1965.3     203.7                          
-    0:01:45 16586937.8    109.56    1843.1      97.7                          
-    0:01:45 16587127.2    107.56    1774.6      36.1                          
-    0:01:45 16587181.3    107.56    1774.6      16.8                          
-    0:01:45 16587221.3    107.56    1774.6       6.2                          
-    0:01:45 16587237.8    107.56    1774.6       1.2                          
-    0:01:46 16587240.2    107.56    1774.6       0.0                          
-    0:01:46 16587240.2    107.56    1774.6       0.0                          
-    0:01:46 16587240.2    107.56    1774.6       0.0                          
-    0:01:46 16587240.2    107.56    1774.6       0.0                          
-    0:01:48 16588261.4    103.44    1705.5       0.7 U0_ENCRYPTION_R2/value_reg_0_/D
-    0:01:50 16590120.3    100.45    1619.9       1.3 U0_CLC_R2/value_1_reg_0_/D
-    0:01:51 16591861.6     97.65    1548.9       1.1 U0_CLC_R1/value_1_reg_0_/D
-    0:01:53 16593625.2     94.88    1475.5       1.9 U0_CLC_R2/value_1_reg_0_/D
-    0:01:56 16595411.1     91.90    1397.9       2.8 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:01:57 16596310.0     88.13    1311.5       7.7 U0_CLC_R2/value_1_reg_0_/D
-    0:01:59 16599100.7     85.65    1242.6       8.2 U0_CLC_R1/value_1_reg_0_/D
-    0:02:01 16601489.1     83.33    1177.7       8.5 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:02:02 16604602.2     81.12    1127.7       9.1 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:02:08 16683797.2     67.43     801.8      32.9 U0_CLC_R1/value_1_reg_0_/D
-    0:02:18 16735614.3      1.82       4.4      51.1 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:02:19 16739019.7      0.00       0.0      52.8                          
+    0:00:38 14612863.5      0.00       0.0    2851.0                          
+    0:00:38 14612863.5      0.00       0.0    2851.0                          
+    0:00:45 14849343.3      0.00       0.0    1871.5                          
+    0:00:46 15007795.6      0.00       0.0    1496.3                          
+    0:00:57 15242897.4      0.00       0.0    1433.2                          
+    0:00:57 15242897.4      0.00       0.0    1433.2                          
+    0:00:57 15242897.4      0.00       0.0    1433.2                          
+    0:00:57 15242897.4      0.00       0.0    1433.2                          
+    0:00:58 15242897.4      0.00       0.0    1433.2                          
+    0:01:12 14381377.8    225.08    6002.9     335.1                          
+    0:01:20 14427415.5    140.33    2788.4     333.3                          
+    0:01:25 14471174.7     88.09    1196.2     155.3                          
+    0:01:26 14473925.8     85.76    1146.0     155.3                          
+    0:01:28 14474136.4     85.50    1143.4     155.0                          
+    0:01:29 14474122.3     85.31    1139.4     155.0                          
+    0:01:29 14474125.8     85.24    1138.9     155.0                          
+    0:01:30 14474122.3     85.25    1138.3     155.0                          
+    0:01:31 14474125.8     85.24    1138.9     155.0                          
+    0:01:31 14474122.3     85.25    1138.3     155.0                          
+    0:01:32 14474122.3     85.25    1138.3     155.0                          
+    0:01:32 14474122.3     85.25    1138.3     155.0                          
+    0:01:32 14474122.3     85.25    1138.3     155.0                          
+    0:01:33 14474582.4     81.80    1043.9      77.6                          
+    0:01:33 14474715.4     79.81    1007.9      32.8                          
+    0:01:33 14474757.7     79.81    1007.9      12.9                          
+    0:01:33 14474774.2     79.81    1007.9       4.7                          
+    0:01:33 14474781.2     79.81    1007.9       1.2                          
+    0:01:33 14474783.6     79.81    1007.9       0.0                          
+    0:01:33 14474783.6     79.81    1007.9       0.0                          
+    0:01:33 14474783.6     79.81    1007.9       0.0                          
+    0:01:33 14474783.6     79.81    1007.9       0.0                          
+    0:01:35 14476142.5     75.56     945.7       1.2 U0_CLC_R2/value_1_reg_0_/D
+    0:01:37 14478249.7     72.37     878.8       1.3 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:01:39 14479962.7     68.58     807.0       4.1 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:01:41 14481465.1     65.28     739.1       5.4 U0_CLC_R1/value_1_reg_0_/D
+    0:01:43 14483198.1     62.27     682.6       6.1 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:01:45 14484685.3     59.14     632.0       8.8 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:01:46 14487203.0     56.63     582.6       9.4 U0_CLC_R2/value_1_reg_0_/D
+    0:01:48 14489810.2     54.71     549.0       9.6 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:01:50 14491110.3     52.76     519.1      10.9 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:01:54 14563205.3     47.12     394.1      40.1 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:02:00 14600067.7      0.00       0.0      53.7                          
 
 
 
@@ -2236,9 +1882,9 @@ Information: Updating design information... (UID-85)
    ELAPSED            WORST NEG   SETUP    DESIGN                            
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
   --------- --------- --------- --------- --------- -------------------------
-    0:02:19 16739019.7      0.00       0.0      52.8                          
-    0:02:19 16739019.7      0.00       0.0      52.8                          
-    0:02:21 16739019.7      0.00       0.0      52.8                          
+    0:02:00 14600067.7      0.00       0.0      53.7                          
+    0:02:00 14600067.7      0.00       0.0      53.7                          
+    0:02:01 14600067.7      0.00       0.0      53.7                          
 
 
   Beginning Design Rule Fixing  (max_transition)  (max_capacitance)
@@ -2248,26 +1894,29 @@ Information: Updating design information... (UID-85)
    ELAPSED            WORST NEG   SETUP    DESIGN                            
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
   --------- --------- --------- --------- --------- -------------------------
-    0:02:21 16739019.7      0.00       0.0      52.8                          
-    0:02:22 16738532.5      0.00       0.0      32.7 U0_ENCRYPTION_R2/div_30/u_div/PartRem[18][15]
-    0:02:23 16738620.7      0.00       0.0      28.8 U0_ENCRYPTION_R2/div_30/net52677
-    0:02:25 16738576.0      0.00       0.0      27.2 U0_CLC_R1/div_33/net53113
-    0:02:25 16738636.0      0.00       0.0      22.9 U0_CLC_R1/div_33/net52927
-    0:02:25 16738681.9      0.00       0.0      19.7 U0_CLC_R2/div_24/net51901
-    0:02:26 16738717.2      0.00       0.0      17.1 U0_CLC_R1/div_33/net53169
-    0:02:26 16738739.6      0.00       0.0      15.0 U0_CLC_R2/div_24/net52159
-    0:02:27 16738740.8      0.00       0.0      13.3 U0_ENCRYPTION_R2/div_30/net52431
-    0:02:27 16738631.3      0.00       0.0      12.3 U0_ENCRYPTION_R2/div_30/net52393
-    0:02:28 16738352.5      0.00       0.0      11.6 U0_ENCRYPTION_R2/div_30/net52399
-    0:02:29 16738274.8      0.00       0.0       9.8 U0_ENCRYPTION_R2/div_30/u_div/SumTmp[24][12]
-    0:02:30 16738236.0      0.00       0.0       9.5 U0_CLC_R1/div_33/net53003
-    0:02:35 16738379.5      0.00       0.0       9.3 U0_CLC_R2/div_24/u_div/SumTmp[25][19]
-    0:02:36 16738525.4      0.00       0.0       9.0 U0_ENCRYPTION_R1/div_32/net51831
-    0:02:37 16738533.6      0.00       0.0       8.6 U0_CLC_R2/div_24/net51975
-    0:02:37 16737770.1      0.00       0.0       8.6 U0_ENCRYPTION_R2/div_30/net52773
-    0:02:38 16735605.3      0.00       0.0       8.5 U0_ENCRYPTION_R2/div_30/net52689
-    0:02:39 16735555.9      0.83       1.1       1.1 U0_CLC_R1/div_33/u_div/SumTmp[47][15]
-    0:02:40 16736620.8      0.00       0.0       0.0                          
+    0:02:01 14600067.7      0.00       0.0      53.7                          
+    0:02:02 14599608.8      0.00       0.0      30.8 U0_ENCRYPTION_R2/div_30/u_div/PartRem[9][15]
+    0:02:03 14599518.2      0.00       0.0      27.1 U0_ENCRYPTION_R2/div_30/u_div/PartRem[18][16]
+    0:02:04 14600065.3      0.00       0.0      22.7 U0_ENCRYPTION_R1/div_33/net49310
+    0:02:05 14600110.0      0.00       0.0      19.8 U0_CLC_R1/div_34/net51278
+    0:02:06 14600130.0      0.00       0.0      17.8 U0_ENCRYPTION_R2/div_30/net50808
+    0:02:06 14600141.8      0.00       0.0      16.6 U0_ENCRYPTION_R1/div_33/net49698
+    0:02:06 14600159.4      0.00       0.0      15.5 U0_ENCRYPTION_R1/div_33/net49408
+    0:02:07 14600151.2      0.00       0.0      15.1 U0_ENCRYPTION_R1/div_33/net49446
+    0:02:08 14600151.2      0.00       0.0      14.9 U0_CLC_R2/div_25/net50194
+    0:02:09 14600418.2      0.00       0.0      12.1 U0_CLC_R1/div_34/net50928
+    0:02:10 14600408.8      0.00       0.0      11.8 U0_CLC_R1/div_34/u_div/SumTmp[35][24]
+    0:02:12 14600406.5      0.00       0.0      11.5 U0_CLC_R1/div_34/u_div/PartRem[11][3]
+    0:02:12 14600324.1      0.00       0.0      11.3 U0_CLC_R1/div_34/net50974
+    0:02:13 14600288.8      0.00       0.0      11.1 U0_ENCRYPTION_R1/div_33/net49388
+    0:02:15 14600417.0      0.00       0.0      10.9 U0_ENCRYPTION_R2/div_30/u_div/SumTmp[25][19]
+    0:02:16 14599840.5      0.00       0.0      10.8 U0_ENCRYPTION_R2/div_30/net50848
+    0:02:16 14598735.8      0.00       0.0      10.5 U0_CLC_R1/div_34/net50932
+    0:02:17 14598738.2      0.00       0.0      10.3 U0_CLC_R2/div_25/net50182
+    0:02:18 14598582.9      0.00       0.0      10.2 U0_CLC_R1/div_34/net50970
+    0:02:19 14598420.5      0.00       0.0      10.2 U0_ENCRYPTION_R2/div_30/net50514
+    0:02:19 14598420.5      0.00       0.0       9.5 U0_CLC_R2/div_25/u_div/PartRem[18][12]
+    0:02:21 14599039.4      0.00       0.0       0.0                          
 
 
   Beginning Area-Recovery Phase  (cleanup)
@@ -2277,54 +1926,56 @@ Information: Updating design information... (UID-85)
    ELAPSED            WORST NEG   SETUP    DESIGN                            
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
   --------- --------- --------- --------- --------- -------------------------
-    0:02:40 16736620.8      0.00       0.0       0.0                          
-    0:02:40 16736620.8      0.00       0.0       0.0                          
-    0:02:42 16646863.0     14.17      30.0       0.0                          
-    0:02:43 16631351.0     12.14      24.1       0.0                          
-    0:02:43 16620506.1     11.72      27.3       0.0                          
-    0:02:44 16612375.4     11.72      27.1       0.0                          
-    0:02:44 16606031.8     11.71      27.2       0.0                          
-    0:02:45 16599757.6     11.73      27.2       0.0                          
-    0:02:45 16593463.3     11.74      27.2       0.0                          
-    0:02:46 16587283.2     11.74      26.6       0.0                          
-    0:02:46 16581030.2     11.74      26.4       0.0                          
-    0:02:47 16574777.1     11.74      26.4       0.0                          
-    0:02:47 16568759.3     11.80      26.6       0.0                          
-    0:02:47 16562372.0     11.81      26.6       0.0                          
-    0:02:48 16556490.6     11.82      26.7       0.0                          
-    0:02:48 16550775.1     11.83      26.7       0.0                          
-    0:02:49 16543361.9     11.86      26.8       0.0                          
-    0:02:49 16533107.2     11.86      26.9       0.0                          
-    0:02:49 16533107.2     11.86      26.9       0.0                          
-    0:02:51 16535832.0      4.01      11.2       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:02:53 16541214.5      0.53       0.8       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:02:54 16541350.9      0.00       0.0       0.0                          
-    0:02:58 16408150.9    199.82    3986.2       0.0                          
-    0:02:58 16407879.0    199.80    3986.0       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:02:58 16407875.5    199.80    3985.9       0.0                          
-    0:03:00 16408869.7    193.32    3908.6       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
-    0:03:02 16408866.2    191.23    3867.2       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:04 16410002.8    186.97    3762.5       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:05 16410508.8    182.10    3664.7       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:07 16411724.3    176.54    3550.3       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
-    0:03:10 16414975.2    170.17    3426.9       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:12 16419310.6    164.69    3316.2       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
-    0:03:14 16422280.3    157.47    3164.0       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:16 16424384.1    154.07    3080.5       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:18 16426490.1    151.22    3004.3       0.0 U0_CLC_R2/value_1_reg_0_/D
-    0:03:22 16463739.3    144.67    2820.0       0.0 U0_CLC_R2/value_1_reg_0_/D
-    0:03:28 16506383.6    115.01    2036.2       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:37 16525234.3     89.95    1372.5       0.0 U0_CLC_R2/value_1_reg_0_/D
-    0:03:47 16545248.8     66.64     810.3       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:03:57 16565519.8     41.59     370.1       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
-    0:04:04 16574902.8     28.81     200.7       0.0 U0_CLC_R2/value_1_reg_0_/D
-    0:04:14 16588200.7     13.15      53.6       0.0 U0_CLC_R1/value_1_reg_0_/D
-    0:04:22 16605719.6      0.00       0.0       0.0                          
+    0:02:21 14599039.4      0.00       0.0       0.0                          
+    0:02:21 14599039.4      0.00       0.0       0.0                          
+    0:02:23 14511648.8      1.17       2.6       0.0                          
+    0:02:24 14490913.0     18.60      24.9       0.0                          
+    0:02:25 14480884.5     18.46      25.4       0.0                          
+    0:02:25 14471937.3     18.46      25.1       0.0                          
+    0:02:26 14464859.4     18.55      25.3       0.0                          
+    0:02:26 14458156.9     18.53      25.3       0.0                          
+    0:02:26 14451767.3     18.53      25.4       0.0                          
+    0:02:27 14445675.4     18.53      25.4       0.0                          
+    0:02:27 14439742.4     18.53      25.4       0.0                          
+    0:02:28 14433939.8     18.54      25.3       0.0                          
+    0:02:28 14428702.0     18.54      25.3       0.0                          
+    0:02:28 14424141.9     18.54      25.0       0.0                          
+    0:02:28 14419565.2     18.54      25.0       0.0                          
+    0:02:29 14413750.8     18.55      25.0       0.0                          
+    0:02:29 14407811.7     18.55      25.0       0.0                          
+    0:02:29 14403800.9     18.55      25.0       0.0                          
+    0:02:29 14403800.9     18.55      25.0       0.0                          
+    0:02:31 14407248.1     11.35      11.6       0.0 U0_CLC_R1/value_1_reg_0_/D
+    0:02:33 14407437.6      0.00       0.0       0.0                          
+    0:02:36 14294615.6    173.79    3171.9       0.0                          
+    0:02:37 14294342.6    173.71    3170.6       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:37 14294332.0    173.63    3169.7       0.0                          
+    0:02:39 14296603.9    167.44    3098.2       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:02:41 14301628.8    163.52    3007.4       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:02:42 14302984.2    161.49    2956.7       0.0 U0_CLC_R2/value_1_reg_0_/D
+    0:02:44 14304834.8    160.11    2926.0       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:02:46 14307642.0    157.90    2857.5       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:02:48 14309648.0    155.80    2798.9       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:02:49 14312537.6    153.28    2723.0       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:02:51 14315210.7    149.49    2609.7       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:02:54 14320959.1    142.44    2429.9       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:02:56 14334755.9    141.26    2395.0       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:02:58 14338769.0    138.31    2317.7       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:03:03 14389000.0    115.60    1745.9       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:03:05 14394397.3    109.85    1602.3       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:03:12 14410254.5     82.57    1099.4       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:03:15 14417787.2     76.72     957.4       0.0 U0_CLC_R2/value_1_reg_0_/D
+    0:03:20 14428973.8     64.68     712.8       0.0 U0_ENCRYPTION_R2/value_reg_0_/D
+    0:03:22 14438614.5     62.33     648.6       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:03:29 14452287.7     44.10     360.2       0.0 U0_CLC_R1/value_1_reg_0_/D
+    0:03:39 14470214.8     20.49     105.3       0.0 U0_CLC_R2/value_1_reg_0_/D
+    0:03:49 14488599.5      0.52       0.6       0.0 U0_ENCRYPTION_R1/value_1_reg_0_/D
+    0:03:50 14494637.4      0.00       0.0       0.0                          
 Loading db file '/home/IC/Diffe/std_cells/scmetro_tsmc_cl013g_rvt_ss_1p08v_125c.db'
 Loading db file '/home/IC/Diffe/std_cells/scmetro_tsmc_cl013g_rvt_tt_1p2v_25c.db'
 Loading db file '/home/IC/Diffe/std_cells/scmetro_tsmc_cl013g_rvt_ff_1p32v_m40c.db'
@@ -2336,8 +1987,8 @@ Note: Symbol # after min delay cost means estimated hold TNS across all active s
   Optimization Complete
   ---------------------
 Warning: Design 'Diffe_TOP' contains 2 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
-     Net 'U3_exponentiation_r/clk': 1609 load(s), 1 driver(s)
-     Net 'U3_exponentiation_r/rst': 1260 load(s), 1 driver(s)
+     Net 'U3_exponentiation_r/clk': 1257 load(s), 1 driver(s)
+     Net 'U3_exponentiation_r/rst': 1191 load(s), 1 driver(s)
 1
 ##################### Close Formality Setup file ###########################
 set_svf -off 
@@ -2347,10 +1998,12 @@ set_svf -off
 #############################################################################
 write_file -format verilog -hierarchy -output netlists/$top_module.v
 Writing verilog file '/home/IC/Diffe/syn/netlists/Diffe_TOP.v'.
-Warning: Verilog writer has added 32 nets to module CLC_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module CLC_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module ENCRYPTION_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
-Warning: Verilog writer has added 32 nets to module CLC_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
-Warning: Verilog writer has added 32 nets to module ENCRYPTION_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module CLC_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module ENCRYPTION_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 32 nets to module exponentiation_0 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 32 nets to module exponentiation_1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module exponentiation_R_0 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module exponentiation_R_1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 37 nets to module Diffe_TOP using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
@@ -2360,10 +2013,12 @@ write_sdc  -nosplit sdc/$top_module.sdc
 # for formality
 write_file -format verilog -hierarchy -output netlists/$top_module.ddc 
 Writing verilog file '/home/IC/Diffe/syn/netlists/Diffe_TOP.ddc'.
-Warning: Verilog writer has added 32 nets to module CLC_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module CLC_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module ENCRYPTION_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
-Warning: Verilog writer has added 32 nets to module CLC_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
-Warning: Verilog writer has added 32 nets to module ENCRYPTION_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module CLC_R2 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 64 nets to module ENCRYPTION_R1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 32 nets to module exponentiation_0 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
+Warning: Verilog writer has added 32 nets to module exponentiation_1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module exponentiation_R_0 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 32 nets to module exponentiation_R_1 using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)
 Warning: Verilog writer has added 37 nets to module Diffe_TOP using SYNOPSYS_UNCONNECTED_ as prefix.  Please use the change_names command to make the correct changes before invoking the verilog writer.  (VO-11)

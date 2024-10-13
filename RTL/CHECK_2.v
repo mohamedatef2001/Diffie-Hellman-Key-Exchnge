@@ -1,14 +1,14 @@
 module CHECK_2 (
   input [63:0] k_i       ,
-  input [63:0] r_1       ,
-  input [63:0] c_2_i     ,
+  input [31:0] r_1       ,
+  input [31:0] c_2_i     ,
   input        clk , rst ,
   input        done_i    ,
   output reg   true_2 
   );
   
   
-  reg [63:0] r1_new ;
+  reg [31:0] r1_new ;
   
   always@(posedge clk or negedge rst )
   begin

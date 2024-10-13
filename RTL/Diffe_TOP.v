@@ -11,11 +11,11 @@ module Diffe_TOP (
   
   
   
-  wire [63:0] R1_C     ;
-  wire [63:0] R2_C     ;
-  wire [63:0] C1_C      ;
-  wire [63:0] C2_C      ;
-  wire [63:0] KEY_C     ;
+  wire [31:0] R1_C     ;
+  wire [31:0] R2_C     ;
+  wire [31:0] C1_C     ;
+  wire [31:0] C2_C     ;
+  wire [63:0] KEY_C    ;
   wire [63:0]RESULT_C1 ;
   wire [63:0]RESULT_C2 ;
   wire [63:0]EXP_C2    ;

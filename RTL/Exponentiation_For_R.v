@@ -3,7 +3,7 @@ module exponentiation_R  (
     input             clk     ,
     input             rst     ,
     input             start   ,
-    input      [63:0] base    ,
+    input      [31:0] base    ,
     input      [31:0] exponent,
     output reg [63:0] result  ,
     output reg        done
@@ -24,22 +24,22 @@ module exponentiation_R  (
          begin
           if (count <= exponent) 
              begin
-                temp   <= base[31:0]   ;
+                temp   <= base         ;
                 result <= result * temp;
                 count  <= count + 1    ;
              end 
            else 
               begin
-                temp <= base[31:0];
+                temp <= base;
                 done <= 1;
               end
          end
        else
          begin
-            result<= 1;
-            temp  <= 1;
-            count <= 0;
-            done  <= 0;
+            result<= 1  ;
+            temp  <= 1  ;
+            count <= 0  ;
+            done  <= 0  ; 
           end
       end
 endmodule

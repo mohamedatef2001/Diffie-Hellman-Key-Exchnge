@@ -1,6 +1,6 @@
 ###################################################################
 
-# Created by write_sdc on Sat Oct 12 00:04:59 2024
+# Created by write_sdc on Mon Oct 14 00:57:00 2024
 
 ###################################################################
 set sdc_version 2.0
@@ -185,7 +185,7 @@ set_load -pin_load 0.184576 [get_ports {OUT[3]}]
 set_load -pin_load 0.184576 [get_ports {OUT[2]}]
 set_load -pin_load 0.184576 [get_ports {OUT[1]}]
 set_load -pin_load 0.184576 [get_ports {OUT[0]}]
-create_clock [get_ports CLK]  -period 666  -waveform {0 333}
+create_clock [get_ports CLK]  -period 700  -waveform {0 350}
 set_clock_latency 0  [get_clocks CLK]
 set_clock_uncertainty 0.1  [get_clocks CLK]
 set_clock_transition -max -rise 0.05 [get_clocks CLK]

@@ -45,9 +45,9 @@ set_fix_multiple_port_nets -all -buffer_constant -feedthroughs
 
 # Note : get_ports is used when you need to interact with the external interface of your design, whereas get_clocks is used when you need to manage and analyze the timing characteristics of clock signals
 
-# Master Clock Definitions  [2 MHz]
+# Master Clock Definitions  [1.4285 MHz]
 set CLK_NAME CLK
-set CLK_PRE 666
+set CLK_PRE 700
 create_clock -name $CLK_NAME -period $CLK_PRE -waveform "0 [expr $CLK_PRE/2]" [get_ports CLK]
 # SKEW
 set CLK_SETUP_SKEW 0.1

@@ -5,7 +5,7 @@ module CLC_R1(
   input              st , // input from U0_exponentiation 
   input              clk,
   input              rst,
-  output reg[63:0]   r1
+  output reg[31:0]   r1
   );
   
 /*
@@ -17,7 +17,8 @@ equ  >>> R1 = g^x mod p
 125 - 7 x 17 = 6
 */ 
 
-reg [63:0] value_1 , value_2 ; // to divide operations to multiple steps 
+reg [63:0] value_1 ;
+reg [63:0] value_2 ;// to divide operations to multiple steps 
 
 
   always@(posedge clk or negedge rst)
@@ -26,11 +27,11 @@ reg [63:0] value_1 , value_2 ; // to divide operations to multiple steps
     begin
       r1      <= 0;
       value_1 <= 0;
-      value_2 <= 1;
+      value_2 <= 0;
     end
     else if(st)
       begin
-        value_1 <= exp/p          ;  
+        value_1 <= exp/p          ; 
         value_2 <= value_1*p      ;
         r1      <= exp - value_2  ;
       end
@@ -38,7 +39,7 @@ reg [63:0] value_1 , value_2 ; // to divide operations to multiple steps
       begin
         r1      <= 0;
         value_1 <= 0;
-        value_2 <= 1;
+        value_2 <= 0;
       end
     end
 endmodule        

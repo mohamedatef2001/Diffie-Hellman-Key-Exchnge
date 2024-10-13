@@ -6,7 +6,7 @@ Report : timing
         -max_paths 1
 Design : Diffe_TOP
 Version: K-2015.06
-Date   : Sat Oct 12 00:05:10 2024
+Date   : Mon Oct 14 00:57:09 2024
 ****************************************
 
  # A fanout number of 1000 was used for high fanout net computations.

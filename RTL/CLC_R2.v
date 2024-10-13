@@ -4,11 +4,12 @@ module CLC_R2(
   input              st , // input from U0_exponentiation 
   input              clk,
   input              rst,
-  output reg[63:0]   r2
+  output reg[31:0]   r2
   );
   
 //equ  >>> R1 = g^x mod p   
-reg [63:0] value_1 , value_2; // to divide operations to multiple steps 
+reg [31:0] value_1 ;
+reg [63:0] value_2; // to divide operations to multiple steps 
 
 
   always@(posedge clk or negedge rst)

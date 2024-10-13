@@ -1,5 +1,5 @@
 module ENCRYPTION_R2 (
-  input     [63:0]r2         ,
+  input     [31:0]r2         ,
   input     [31:0]p          ,
   input     [63:0]exp        ,
   input           clk        ,
@@ -7,7 +7,7 @@ module ENCRYPTION_R2 (
   input           done_c_i   ,
   output reg      done_enc2  ,
   output reg[63:0]k_o        , 
-  output reg[63:0]c1
+  output reg[31:0]c1
   );
   
   reg [63:0] value  ;
