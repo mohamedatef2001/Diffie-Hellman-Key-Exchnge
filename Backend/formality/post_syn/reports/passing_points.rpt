@@ -1,0 +1,3375 @@
+**************************************************
+Report         : passing_points
+
+Reference      : Ref:/WORK/Diffe_TOP
+Implementation : Imp:/WORK/Diffe_TOP
+Version        : L-2016.03-SP1
+Date           : Sun Oct 20 08:58:20 2024
+**************************************************
+
+1113 Passing compare points:
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/r1_new_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CHECK_2/true_2_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CHECK_2/true_2_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/r1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R1/value_2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/r2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CLC_R2/value_2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CONTROLKER/curent_state_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CONTROLKER/curent_state_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_CONTROLKER/curent_state_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_CONTROLKER/curent_state_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/c2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/k_1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/r2_new_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/true_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/true_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R1/value_2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/c1_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/done_enc2_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/done_enc2_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/k_o_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_2_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_ENCRYPTION_R2/value_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/count_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/count_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/done_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/done_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_32_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_32_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_33_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_33_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_34_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_34_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_35_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_35_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_36_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_36_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_37_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_37_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_38_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_38_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_39_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_39_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_40_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_40_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_41_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_41_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_42_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_42_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_43_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_43_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_44_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_44_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_45_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_45_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_46_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_46_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_47_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_47_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_48_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_48_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_49_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_49_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_50_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_50_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_51_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_51_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_52_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_52_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_53_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_53_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_54_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_54_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_55_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_55_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_56_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_56_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_57_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_57_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_58_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_58_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_59_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_59_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_60_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_60_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_61_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_61_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_62_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_62_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_63_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_63_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/result_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/result_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U0_exponentiation/temp_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/count_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/count_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/done_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/done_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_32_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_32_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_33_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_33_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_34_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_34_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_35_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_35_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_36_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_36_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_37_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_37_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_38_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_38_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_39_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_39_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_40_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_40_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_41_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_41_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_42_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_42_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_43_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_43_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_44_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_44_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_45_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_45_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_46_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_46_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_47_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_47_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_48_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_48_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_49_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_49_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_50_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_50_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_51_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_51_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_52_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_52_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_53_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_53_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_54_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_54_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_55_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_55_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_56_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_56_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_57_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_57_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_58_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_58_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_59_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_59_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_60_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_60_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_61_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_61_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_62_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_62_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_63_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_63_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/result_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/result_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U1_exponentiation/temp_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/count_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/done_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/done_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_32_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_32_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_33_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_33_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_34_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_34_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_35_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_35_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_36_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_36_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_37_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_37_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_38_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_38_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_39_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_39_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_40_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_40_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_41_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_41_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_42_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_42_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_43_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_43_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_44_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_44_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_45_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_45_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_46_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_46_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_47_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_47_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_48_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_48_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_49_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_49_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_50_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_50_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_51_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_51_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_52_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_52_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_53_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_53_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_54_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_54_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_55_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_55_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_56_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_56_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_57_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_57_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_58_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_58_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_59_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_59_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_60_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_60_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_61_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_61_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_62_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_62_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_63_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_63_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/result_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U2_exponentiation_r/temp_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/count_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/done_reg
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/done_reg
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_32_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_32_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_33_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_33_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_34_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_34_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_35_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_35_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_36_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_36_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_37_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_37_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_38_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_38_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_39_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_39_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_40_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_40_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_41_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_41_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_42_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_42_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_43_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_43_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_44_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_44_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_45_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_45_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_46_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_46_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_47_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_47_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_48_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_48_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_49_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_49_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_50_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_50_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_51_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_51_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_52_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_52_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_53_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_53_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_54_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_54_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_55_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_55_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_56_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_56_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_57_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_57_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_58_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_58_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_59_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_59_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_60_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_60_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_61_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_61_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_62_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_62_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_63_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_63_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/result_reg_9_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_0_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_0_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_10_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_10_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_11_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_11_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_12_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_12_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_13_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_13_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_14_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_14_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_15_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_15_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_16_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_16_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_17_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_17_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_18_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_18_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_19_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_19_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_1_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_1_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_20_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_20_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_21_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_21_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_22_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_22_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_23_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_23_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_24_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_24_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_25_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_25_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_26_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_26_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_27_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_27_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_28_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_28_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_29_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_29_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_2_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_2_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_30_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_30_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_31_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_31_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_3_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_3_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_4_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_4_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_5_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_5_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_6_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_6_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_7_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_7_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_8_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_8_
+
+  Ref  DFF        Ref:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_9_
+  Impl DFF        Imp:/WORK/Diffe_TOP/U3_exponentiation_r/temp_reg_9_
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[0]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[0]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[10]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[10]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[11]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[11]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[12]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[12]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[13]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[13]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[14]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[14]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[15]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[15]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[16]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[16]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[17]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[17]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[18]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[18]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[19]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[19]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[1]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[1]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[20]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[20]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[21]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[21]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[22]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[22]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[23]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[23]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[24]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[24]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[25]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[25]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[26]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[26]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[27]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[27]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[28]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[28]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[29]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[29]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[2]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[2]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[30]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[30]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[31]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[31]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[32]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[32]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[33]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[33]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[34]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[34]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[35]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[35]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[36]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[36]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[37]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[37]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[38]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[38]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[39]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[39]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[3]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[3]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[40]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[40]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[41]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[41]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[42]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[42]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[43]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[43]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[44]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[44]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[45]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[45]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[46]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[46]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[47]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[47]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[4]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[4]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[5]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[5]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[6]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[6]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[7]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[7]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[8]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[8]
+
+  Ref  Port       Ref:/WORK/Diffe_TOP/OUT[9]
+  Impl Port       Imp:/WORK/Diffe_TOP/OUT[9]
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1
