@@ -1,0 +1,77 @@
+ 
+****************************************
+Report : area
+Design : Diffe_TOP
+Version: K-2015.06
+Date   : Sun Nov  3 06:44:52 2024
+****************************************
+
+Library(s) Used:
+
+    scmetro_tsmc_cl013g_rvt_ss_1p08v_125c (File: /home/IC/Diffe/std_cells/scmetro_tsmc_cl013g_rvt_ss_1p08v_125c.db)
+
+Number of ports:                         4832
+Number of nets:                         56270
+Number of cells:                        37643
+Number of combinational cells:          36264
+Number of sequential cells:              1345
+Number of macros/black boxes:               0
+Number of buf/inv:                       2957
+Number of references:                      14
+
+Combinational area:             602119.746722
+Buf/Inv area:                    11530.483505
+Noncombinational area:           41397.484348
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                643517.231070
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area              Local cell area
+                                  --------------------  ------------------------------- 
+Hierarchical cell                 Absolute     Percent  Combi-       Noncombi-   Black-
+                                  Total        Total    national     national    boxes   Design
+--------------------------------  -----------  -------  -----------  ----------  ------  ------------------------------
+Diffe_TOP                         643517.2311    100.0     292.9983      0.0000  0.0000  Diffe_TOP
+U0_CHECK_2                          2089.8193      0.3     543.6354   1087.2708  0.0000  CHECK_2_test_1
+U0_CHECK_2/eq_24                     458.9130      0.1     458.9130      0.0000  0.0000  CHECK_2_DW01_cmp6_0
+U0_CLC_R1                          89701.0185     13.9     903.7056   4217.2930  0.0000  CLC_R1_test_1
+U0_CLC_R1/div_34                   66205.8493     10.3   66205.8493      0.0000  0.0000  CLC_R1_DW_div_uns_0
+U0_CLC_R1/mult_35                  17302.1968      2.7   17302.1968      0.0000  0.0000  CLC_R1_DW02_mult_0
+U0_CLC_R1/sub_36                    1071.9737      0.2    1071.9737      0.0000  0.0000  CLC_R1_DW01_sub_0
+U0_CLC_R2                          88418.4154     13.7     640.1248   3159.4396  0.0000  CLC_R2_test_1
+U0_CLC_R2/div_25                   66243.5037     10.3   66243.5037      0.0000  0.0000  CLC_R2_DW_div_uns_0
+U0_CLC_R2/mult_26                  17303.3735      2.7   17303.3735      0.0000  0.0000  CLC_R2_DW02_mult_0
+U0_CLC_R2/sub_27                    1071.9737      0.2    1071.9737      0.0000  0.0000  CLC_R2_DW01_sub_0
+U0_CONTROLKER                        281.2313      0.0     215.3361     65.8952  0.0000  CONTROLKER_test_1
+U0_ENCRYPTION_R1                   93381.7362     14.5    1988.6230   6354.1803  0.0000  ENCRYPTION_R1_test_1
+U0_ENCRYPTION_R1/div_33            66205.8493     10.3   66205.8493      0.0000  0.0000  ENCRYPTION_R1_DW_div_uns_0
+U0_ENCRYPTION_R1/mult_34           17302.1968      2.7   17302.1968      0.0000  0.0000  ENCRYPTION_R1_DW02_mult_0
+U0_ENCRYPTION_R1/ne_37               458.9130      0.1     458.9130      0.0000  0.0000  ENCRYPTION_R1_DW01_cmp6_0
+U0_ENCRYPTION_R1/sub_35             1071.9737      0.2    1071.9737      0.0000  0.0000  ENCRYPTION_R1_DW01_sub_0
+U0_ENCRYPTION_R2                  132927.0933     20.7    2356.9301   9521.8568  0.0000  ENCRYPTION_R2_test_1
+U0_ENCRYPTION_R2/div_30            66205.8493     10.3   66205.8493      0.0000  0.0000  ENCRYPTION_R2_DW_div_uns_0
+U0_ENCRYPTION_R2/mult_31           52678.5058      8.2   52678.5058      0.0000  0.0000  ENCRYPTION_R2_DW02_mult_0
+U0_ENCRYPTION_R2/sub_32             2163.9513      0.3    2163.9513      0.0000  0.0000  ENCRYPTION_R2_DW01_sub_0
+U0_exponentiation                  59173.8899      9.2    1867.4229   4247.8872  0.0000  exponentiation_test_0
+U0_exponentiation/add_29             474.2101      0.1     474.2101      0.0000  0.0000  exponentiation_0_DW01_inc_0
+U0_exponentiation/mult_28          52584.3698      8.2   52584.3698      0.0000  0.0000  exponentiation_0_DW02_mult_0
+U0_mux2X1                             16.4738      0.0      16.4738      0.0000  0.0000  mux2X1_0
+U1_exponentiation                  59173.8899      9.2    1867.4229   4247.8872  0.0000  exponentiation_test_1
+U1_exponentiation/add_29             474.2101      0.1     474.2101      0.0000  0.0000  exponentiation_1_DW01_inc_0
+U1_exponentiation/mult_28          52584.3698      8.2   52584.3698      0.0000  0.0000  exponentiation_1_DW02_mult_0
+U1_mux2X1                             11.7670      0.0      11.7670      0.0000  0.0000  mux2X1_1
+U2_exponentiation_r                59024.4491      9.2    1717.9820   4247.8872  0.0000  exponentiation_R_test_0
+U2_exponentiation_r/add_29           474.2101      0.1     474.2101      0.0000  0.0000  exponentiation_R_0_DW01_inc_0
+U2_exponentiation_r/mult_28        52584.3698      8.2   52584.3698      0.0000  0.0000  exponentiation_R_0_DW02_mult_0
+U3_exponentiation_r                59024.4491      9.2    1717.9820   4247.8872  0.0000  exponentiation_R_test_1
+U3_exponentiation_r/add_29           474.2101      0.1     474.2101      0.0000  0.0000  exponentiation_R_1_DW01_inc_0
+U3_exponentiation_r/mult_28        52584.3698      8.2   52584.3698      0.0000  0.0000  exponentiation_R_1_DW02_mult_0
+--------------------------------  -----------  -------  -----------  ----------  ------  ------------------------------
+Total                                                   602119.7467  41397.4843  0.0000
+
+1

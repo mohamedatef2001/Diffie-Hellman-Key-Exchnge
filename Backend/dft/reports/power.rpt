@@ -1,0 +1,90 @@
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : Diffe_TOP
+Version: K-2015.06
+Date   : Sun Nov  3 06:44:57 2024
+****************************************
+
+
+Library(s) Used:
+
+    scmetro_tsmc_cl013g_rvt_ss_1p08v_125c (File: /home/IC/Diffe/std_cells/scmetro_tsmc_cl013g_rvt_ss_1p08v_125c.db)
+
+
+Operating Conditions: scmetro_tsmc_cl013g_rvt_ss_1p08v_125c   Library: scmetro_tsmc_cl013g_rvt_ss_1p08v_125c
+Wire Load Model Mode: top
+
+
+Global Operating Voltage = 1.08 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+Diffe_TOP                                 1.679 9.23e-02 5.47e+08    2.318 100.0
+  U1_mux2X1 (mux2X1_1)                 1.00e-05 1.39e-06 1.15e+04 2.29e-05   0.0
+  U0_mux2X1 (mux2X1_0)                    1.666 1.79e-02 2.20e+04    1.684  72.7
+  U3_exponentiation_r (exponentiation_R_test_1)
+                                       1.21e-04 2.82e-03 4.41e+07 4.71e-02   2.0
+    mult_28 (exponentiation_R_1_DW02_mult_0)
+                                       5.19e-05 3.42e-06 4.11e+07 4.11e-02   1.8
+    add_29 (exponentiation_R_1_DW01_inc_0)
+                                       9.22e-09 1.96e-08 4.31e+05 4.31e-04   0.0
+  U2_exponentiation_r (exponentiation_R_test_0)
+                                       1.53e-04 2.90e-03 4.42e+07 4.72e-02   2.0
+    mult_28 (exponentiation_R_0_DW02_mult_0)
+                                       7.02e-05 1.98e-05 4.11e+07 4.12e-02   1.8
+    add_29 (exponentiation_R_0_DW01_inc_0)
+                                       1.64e-06 4.93e-06 4.30e+05 4.37e-04   0.0
+  U1_exponentiation (exponentiation_test_1)
+                                       1.37e-03 6.36e-03 4.54e+07 5.31e-02   2.3
+    mult_28 (exponentiation_1_DW02_mult_0)
+                                       1.19e-03 2.84e-03 4.22e+07 4.62e-02   2.0
+    add_29 (exponentiation_1_DW01_inc_0)
+                                       1.89e-06 1.18e-05 4.32e+05 4.46e-04   0.0
+  U0_exponentiation (exponentiation_test_0)
+                                       1.28e-03 5.81e-03 4.50e+07 5.21e-02   2.2
+    mult_28 (exponentiation_0_DW02_mult_0)
+                                       1.11e-03 2.38e-03 4.18e+07 4.53e-02   2.0
+    add_29 (exponentiation_0_DW01_inc_0)
+                                       2.28e-06 7.93e-06 4.30e+05 4.41e-04   0.0
+  U0_CONTROLKER (CONTROLKER_test_1)    1.95e-04 7.16e-05 1.69e+05 4.36e-04   0.0
+  U0_CHECK_2 (CHECK_2_test_1)          3.62e-05 9.23e-04 1.37e+06 2.33e-03   0.1
+    eq_24 (CHECK_2_DW01_cmp6_0)        4.81e-06 2.31e-05 4.49e+05 4.77e-04   0.0
+  U0_ENCRYPTION_R1 (ENCRYPTION_R1_test_1)
+                                       1.17e-03 1.13e-02 8.47e+07 9.72e-02   4.2
+    mult_34 (ENCRYPTION_R1_DW02_mult_0)
+                                       1.03e-04 1.32e-05 1.37e+07 1.38e-02   0.6
+    div_33 (ENCRYPTION_R1_DW_div_uns_0)
+                                       9.36e-04 6.63e-03 6.54e+07 7.30e-02   3.2
+    sub_35 (ENCRYPTION_R1_DW01_sub_0)  1.34e-05 2.86e-05 1.02e+06 1.06e-03   0.0
+    ne_37 (ENCRYPTION_R1_DW01_cmp6_0)  2.42e-06 5.79e-06 4.03e+05 4.11e-04   0.0
+  U0_CLC_R2 (CLC_R2_test_1)            2.98e-03 1.44e-02 8.30e+07    0.100   4.3
+    mult_26 (CLC_R2_DW02_mult_0)       5.32e-04 1.51e-03 1.48e+07 1.68e-02   0.7
+    div_25 (CLC_R2_DW_div_uns_0)       2.34e-03 1.03e-02 6.54e+07 7.81e-02   3.4
+    sub_27 (CLC_R2_DW01_sub_0)         3.05e-05 1.03e-04 1.03e+06 1.16e-03   0.1
+  U0_ENCRYPTION_R2 (ENCRYPTION_R2_test_1)
+                                       2.66e-03 1.68e-02 1.16e+08    0.136   5.9
+    mult_31 (ENCRYPTION_R2_DW02_mult_0)
+                                       1.10e-03 2.35e-03 4.33e+07 4.67e-02   2.0
+    div_30 (ENCRYPTION_R2_DW_div_uns_0)
+                                       1.41e-03 7.86e-03 6.54e+07 7.47e-02   3.2
+    sub_32 (ENCRYPTION_R2_DW01_sub_0)  2.53e-06 2.88e-05 2.03e+06 2.06e-03   0.1
+  U0_CLC_R1 (CLC_R1_test_1)            2.32e-03 1.29e-02 8.24e+07 9.76e-02   4.2
+    mult_35 (CLC_R1_DW02_mult_0)       1.04e-04 1.82e-05 1.37e+07 1.38e-02   0.6
+    div_34 (CLC_R1_DW_div_uns_0)       2.14e-03 9.81e-03 6.54e+07 7.74e-02   3.3
+    sub_36 (CLC_R1_DW01_sub_0)         1.57e-05 7.39e-05 1.02e+06 1.11e-03   0.0
+1

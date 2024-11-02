@@ -1,0 +1,955 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 20
+Design : Diffe_TOP
+Version: K-2015.06
+Date   : Sun Nov  3 06:44:58 2024
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: scmetro_tsmc_cl013g_rvt_ff_1p32v_m40c   Library: scmetro_tsmc_cl013g_rvt_ff_1p32v_m40c
+Wire Load Model Mode: top
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[16] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U94/Y (INVX4M)                            0.31       0.92 f
+  U0_CONTROLKER/out[16] (CONTROLKER_test_1)               0.00       0.92 f
+  OUT[16] (out)                                           0.00       0.92 f
+  data arrival time                                                  0.92
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -0.92
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.85
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[22] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U87/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/out[22] (CONTROLKER_test_1)               0.00       0.92 f
+  OUT[22] (out)                                           0.00       0.92 f
+  data arrival time                                                  0.92
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -0.92
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.86
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[18] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U91/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/out[18] (CONTROLKER_test_1)               0.00       0.92 f
+  OUT[18] (out)                                           0.00       0.92 f
+  data arrival time                                                  0.92
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -0.92
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.86
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[24] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U94/Y (INVX4M)                            0.31       0.92 f
+  U0_CONTROLKER/U93/Y (BUFX4M)                            0.47       1.38 f
+  U0_CONTROLKER/out[24] (CONTROLKER_test_1)               0.00       1.38 f
+  OUT[24] (out)                                           0.00       1.38 f
+  data arrival time                                                  1.38
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.38
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[6] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U94/Y (INVX4M)                            0.31       0.92 f
+  U0_CONTROLKER/U92/Y (BUFX4M)                            0.47       1.38 f
+  U0_CONTROLKER/out[6] (CONTROLKER_test_1)                0.00       1.38 f
+  OUT[6] (out)                                            0.00       1.38 f
+  data arrival time                                                  1.38
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.38
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[30] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U87/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U86/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[30] (CONTROLKER_test_1)               0.00       1.39 f
+  OUT[30] (out)                                           0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[25] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U91/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U90/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[25] (CONTROLKER_test_1)               0.00       1.39 f
+  OUT[25] (out)                                           0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[14] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U87/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U84/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[14] (CONTROLKER_test_1)               0.00       1.39 f
+  OUT[14] (out)                                           0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[12] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U91/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U88/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[12] (CONTROLKER_test_1)               0.00       1.39 f
+  OUT[12] (out)                                           0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[4] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U87/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U85/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[4] (CONTROLKER_test_1)                0.00       1.39 f
+  OUT[4] (out)                                            0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: U0_CONTROLKER/curent_state_reg_1_
+              (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Endpoint: OUT[2] (output port clocked by CLK)
+  Path Group: CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  U0_CONTROLKER/curent_state_reg_1_/CK (SDFFRQX2M)        0.00 #     0.00 r
+  U0_CONTROLKER/curent_state_reg_1_/Q (SDFFRQX2M)         0.45       0.45 f
+  U0_CONTROLKER/U80/Y (NAND2X2M)                          0.16       0.60 r
+  U0_CONTROLKER/U91/Y (INVX4M)                            0.32       0.92 f
+  U0_CONTROLKER/U89/Y (BUFX4M)                            0.47       1.39 f
+  U0_CONTROLKER/out[2] (CONTROLKER_test_1)                0.00       1.39 f
+  OUT[2] (out)                                            0.00       1.39 f
+  data arrival time                                                  1.39
+
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  output external delay                                  -0.04       0.06
+  data required time                                                 0.06
+  --------------------------------------------------------------------------
+  data required time                                                 0.06
+  data arrival time                                                 -1.39
+  --------------------------------------------------------------------------
+  slack (MET)                                                        1.32
+
+
+  Startpoint: G[1] (input port clocked by CLK)
+  Endpoint: U1_exponentiation/temp_reg_1_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[1] (in)                                               0.02       0.05 r
+  U1_exponentiation/base[1] (exponentiation_test_1)       0.00       0.05 r
+  U1_exponentiation/U324/Y (AO22X1M)                      0.15       0.20 r
+  U1_exponentiation/temp_reg_1_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U1_exponentiation/temp_reg_1_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[1] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_1_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[1] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[1] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U325/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_1_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_1_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[19] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_19_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[19] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[19] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U258/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_19_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_19_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[18] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_18_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[18] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[18] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U257/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_18_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_18_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[17] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_17_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[17] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[17] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U256/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_17_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_17_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[16] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_16_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[16] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[16] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U255/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_16_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_16_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[15] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_15_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[15] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[15] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U254/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_15_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_15_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[14] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_14_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[14] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[14] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U253/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_14_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_14_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[13] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_13_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[13] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[13] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U252/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_13_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_13_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[12] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_12_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[12] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[12] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U251/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_12_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_12_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[11] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_11_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[11] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[11] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U250/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_11_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_11_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[10] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_10_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[10] (in)                                              0.02       0.05 r
+  U0_exponentiation/base[10] (exponentiation_test_0)      0.00       0.05 r
+  U0_exponentiation/U249/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_10_/D (SDFFRQX2M)            0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_10_/CK (SDFFRQX2M)           0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[9] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_9_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[9] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[9] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U248/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_9_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_9_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[8] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_8_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[8] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[8] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U247/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_8_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_8_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[7] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_7_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[7] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[7] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U246/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_7_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_7_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[6] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_6_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[6] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[6] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U330/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_6_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_6_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[5] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_5_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[5] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[5] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U329/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_5_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_5_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[4] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_4_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[4] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[4] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U328/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_4_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_4_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[3] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_3_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[3] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[3] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U327/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_3_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_3_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+  Startpoint: G[2] (input port clocked by CLK)
+  Endpoint: U0_exponentiation/temp_reg_2_
+            (rising edge-triggered flip-flop clocked by SCAN_CLK)
+  Path Group: SCAN_CLK
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock CLK (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    0.04       0.04 r
+  G[2] (in)                                               0.02       0.05 r
+  U0_exponentiation/base[2] (exponentiation_test_0)       0.00       0.05 r
+  U0_exponentiation/U326/Y (AO22X1M)                      0.15       0.20 r
+  U0_exponentiation/temp_reg_2_/D (SDFFRQX2M)             0.00       0.20 r
+  data arrival time                                                  0.20
+
+  clock SCAN_CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  clock uncertainty                                       0.10       0.10
+  U0_exponentiation/temp_reg_2_/CK (SDFFRQX2M)            0.00       0.10 r
+  library hold time                                      -0.16      -0.06
+  data required time                                                -0.06
+  --------------------------------------------------------------------------
+  data required time                                                -0.06
+  data arrival time                                                 -0.20
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.26
+
+
+1
